@@ -434,7 +434,6 @@
 <pin name="AUX2" x="20.32" y="-7.62" visible="pin" length="short" rot="R180"/>
 <pin name="AUX3" x="20.32" y="-10.16" visible="pin" length="short" rot="R180"/>
 <pin name="AUX4" x="20.32" y="-12.7" visible="pin" length="short" rot="R180"/>
-<pin name="AUX5" x="20.32" y="-15.24" visible="pin" length="short" rot="R180"/>
 </symbol>
 <symbol name="V-REG-LDO_NO-BP">
 <description>&lt;h3&gt; Voltage Regulator - No bypass&lt;/h3&gt;
@@ -465,7 +464,6 @@
 <connect gate="G$1" pin="AUX2" pad="48"/>
 <connect gate="G$1" pin="AUX3" pad="50"/>
 <connect gate="G$1" pin="AUX4" pad="52"/>
-<connect gate="G$1" pin="AUX5" pad="38"/>
 <connect gate="G$1" pin="AUX_EN" pad="56"/>
 <connect gate="G$1" pin="AUX_RX" pad="58"/>
 <connect gate="G$1" pin="AUX_TX" pad="60"/>
