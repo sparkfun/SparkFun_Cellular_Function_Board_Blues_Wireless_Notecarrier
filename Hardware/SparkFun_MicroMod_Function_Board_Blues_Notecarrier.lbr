@@ -504,7 +504,9 @@
 <connect gate="G$1" pin="OUT" pad="5"/>
 </connects>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="PROD_ID" value="VREG-16875" constant="no"/>
+</technology>
 </technologies>
 </device>
 </devices>
