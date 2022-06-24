@@ -3,7 +3,7 @@
 <eagle version="9.6.2">
 <drawing>
 <settings>
-<setting alwaysvectorfont="yes"/>
+<setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
 <grid distance="0.1" unitdist="mm" unit="mm" style="lines" multiple="1" display="yes" altdistance="0.01" altunitdist="mm" altunit="mm"/>
@@ -11899,7 +11899,7 @@ These design rules are smaller than the &lt;a href=&quot;https://jlcpcb.com/capa
 <wire x1="28.55" y1="10.6" x2="29.4" y2="10.6" width="0.35" layer="1"/>
 <wire x1="29.9" y1="11.1" x2="30.5" y2="11.1" width="0.35" layer="1"/>
 <wire x1="29.4" y1="10.6" x2="29.9" y2="11.1" width="0.35" layer="1"/>
-<wire x1="20.8" y1="60.9" x2="20.8" y2="62.077" width="0.2" layer="1"/>
+<wire x1="20.8" y1="60.4" x2="20.8" y2="62.077" width="0.2" layer="1"/>
 <wire x1="28.5" y1="23.8" x2="28.5" y2="20.025" width="0.2" layer="1"/>
 <wire x1="29" y1="20.025" x2="29" y2="21.9" width="0.2" layer="1"/>
 <polygon width="0.2" layer="1">
@@ -11915,8 +11915,8 @@ These design rules are smaller than the &lt;a href=&quot;https://jlcpcb.com/capa
 <wire x1="28.5" y1="23.8" x2="25.9" y2="26.4" width="0.2" layer="1"/>
 <wire x1="25.9" y1="26.4" x2="25.9" y2="46.9" width="0.2" layer="1"/>
 <wire x1="25.9" y1="46.9" x2="24" y2="48.8" width="0.2" layer="1"/>
-<wire x1="24" y1="57.7" x2="20.8" y2="60.9" width="0.2" layer="1"/>
-<wire x1="24" y1="48.8" x2="24" y2="57.7" width="0.2" layer="1"/>
+<wire x1="24" y1="57.2" x2="20.8" y2="60.4" width="0.2" layer="1"/>
+<wire x1="24" y1="48.8" x2="24" y2="57.2" width="0.2" layer="1"/>
 </signal>
 <signal name="A0">
 <contactref element="U1" pad="1"/>
