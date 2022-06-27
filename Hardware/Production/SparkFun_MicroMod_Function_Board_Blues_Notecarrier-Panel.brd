@@ -281,7 +281,6 @@
 <text x="75.745340625" y="74.65568125" size="1.778" layer="46" font="vector" ratio="15" align="center">v-score</text>
 <wire x1="113.743740625" y1="-6.860540625" x2="113.743740625" y2="72.36968125" width="0.381" layer="46"/>
 <text x="113.743740625" y="74.65568125" size="1.778" layer="46" font="vector" ratio="15" align="center">v-score</text>
-<text x="134.32028125" y="-0.254" size="1.778" layer="46" font="vector" ratio="15" align="center">v-score</text>
 <wire x1="-6.860540625" y1="65.255140625" x2="126.70028125" y2="65.255140625" width="0.381" layer="46"/>
 <text x="134.32028125" y="65.255140625" size="1.778" layer="46" font="vector" ratio="15" align="center">v-score</text>
 <wire x1="114.00028125" y1="65.001140625" x2="120.35028125" y2="65.001140625" width="0.254" layer="20"/>
