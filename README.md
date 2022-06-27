@@ -1,2 +1,3 @@
-# SparkFun_MicroMod_Function_Board_Blues_Notecarrier
+# SparkFun Cellular Function Board Blues Wireless Notecarrier
+
 Blues Wireless Notecarrier in the MicroMod Function Board form factor.

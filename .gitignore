@@ -219,3 +219,8 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+# Images in main repo.
+*.svg
+*.png
+images/*.png
