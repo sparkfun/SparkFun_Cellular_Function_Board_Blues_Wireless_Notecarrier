@@ -486,7 +486,9 @@
 <connect gate="G$1" pin="V_ACT_GPS_OUT" pad="20"/>
 </connects>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="PROD_ID" value="CONN-14877"/>
+</technology>
 </technologies>
 </device>
 </devices>
