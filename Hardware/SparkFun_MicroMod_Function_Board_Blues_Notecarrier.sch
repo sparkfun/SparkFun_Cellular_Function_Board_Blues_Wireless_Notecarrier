@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.01" altunitdist="inch" altunit="inch"/>
+<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
@@ -25742,7 +25742,7 @@ SMD LED with built-in controller IC.
 <technologies>
 <technology name="">
 <attribute name="I_PP" value="58.1A"/>
-<attribute name="PROD_ID" value="" constant="no"/>
+<attribute name="PROD_ID" value="DIO-17055"/>
 <attribute name="P_PK" value="600W"/>
 <attribute name="VCLMP" value="10.5V"/>
 <attribute name="VWM" value="5.8V"/>
@@ -27440,9 +27440,9 @@ Default: Normally Open</text>
 <pinref part="J6" gate="G$1" pin="RX"/>
 </segment>
 <segment>
-<wire x1="127" y1="134.62" x2="124.46" y2="134.62" width="0.1524" layer="91"/>
-<label x="127" y="134.62" size="1.27" layer="95" font="vector" xref="yes"/>
-<pinref part="J2" gate="J1" pin="TX"/>
+<wire x1="127" y1="137.16" x2="124.46" y2="137.16" width="0.1524" layer="91"/>
+<label x="127" y="137.16" size="1.27" layer="95" font="vector" xref="yes"/>
+<pinref part="J2" gate="J1" pin="RX"/>
 </segment>
 </net>
 <net name="NOTECARD_TX" class="0">
@@ -27452,9 +27452,9 @@ Default: Normally Open</text>
 <pinref part="J6" gate="G$1" pin="TX"/>
 </segment>
 <segment>
-<wire x1="127" y1="137.16" x2="124.46" y2="137.16" width="0.1524" layer="91"/>
-<label x="127" y="137.16" size="1.27" layer="95" font="vector" xref="yes"/>
-<pinref part="J2" gate="J1" pin="RX"/>
+<wire x1="127" y1="134.62" x2="124.46" y2="134.62" width="0.1524" layer="91"/>
+<label x="127" y="134.62" size="1.27" layer="95" font="vector" xref="yes"/>
+<pinref part="J2" gate="J1" pin="TX"/>
 </segment>
 </net>
 <net name="AUX_EN" class="0">

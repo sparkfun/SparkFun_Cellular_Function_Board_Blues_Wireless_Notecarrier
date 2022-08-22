@@ -7507,6 +7507,582 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="2.43" y="-0.14"/>
 </polygon>
 </package>
+<package name="#USRBTN#0">
+<polygon width="0.01" layer="21">
+<vertex x="-2.27" y="0.51"/>
+<vertex x="-2.32" y="0.5"/>
+<vertex x="-2.37" y="0.49"/>
+<vertex x="-2.42" y="0.48"/>
+<vertex x="-2.47" y="0.46"/>
+<vertex x="-2.51" y="0.43"/>
+<vertex x="-2.55" y="0.4"/>
+<vertex x="-2.59" y="0.37"/>
+<vertex x="-2.63" y="0.34"/>
+<vertex x="-2.66" y="0.3"/>
+<vertex x="-2.69" y="0.25"/>
+<vertex x="-2.71" y="0.21"/>
+<vertex x="-2.73" y="0.16"/>
+<vertex x="-2.74" y="0.11"/>
+<vertex x="-2.75" y="0.06"/>
+<vertex x="-2.75" y="0.01"/>
+<vertex x="-2.75" y="-0.04"/>
+<vertex x="-2.75" y="-0.09"/>
+<vertex x="-2.73" y="-0.14"/>
+<vertex x="-2.72" y="-0.19"/>
+<vertex x="-2.7" y="-0.23"/>
+<vertex x="-2.67" y="-0.28"/>
+<vertex x="-2.64" y="-0.32"/>
+<vertex x="-2.61" y="-0.36"/>
+<vertex x="-2.57" y="-0.39"/>
+<vertex x="-2.53" y="-0.42"/>
+<vertex x="-2.48" y="-0.45"/>
+<vertex x="-2.44" y="-0.47"/>
+<vertex x="-2.39" y="-0.49"/>
+<vertex x="-2.34" y="-0.5"/>
+<vertex x="-2.29" y="-0.51"/>
+<vertex x="-2.24" y="-0.51"/>
+<vertex x="2.23" y="-0.51"/>
+<vertex x="2.28" y="-0.51"/>
+<vertex x="2.33" y="-0.5"/>
+<vertex x="2.38" y="-0.49"/>
+<vertex x="2.43" y="-0.47"/>
+<vertex x="2.48" y="-0.45"/>
+<vertex x="2.52" y="-0.43"/>
+<vertex x="2.56" y="-0.4"/>
+<vertex x="2.6" y="-0.36"/>
+<vertex x="2.64" y="-0.33"/>
+<vertex x="2.67" y="-0.28"/>
+<vertex x="2.69" y="-0.24"/>
+<vertex x="2.71" y="-0.2"/>
+<vertex x="2.73" y="-0.15"/>
+<vertex x="2.74" y="-0.1"/>
+<vertex x="2.75" y="-0.05"/>
+<vertex x="2.75" y="0"/>
+<vertex x="2.75" y="0.05"/>
+<vertex x="2.74" y="0.1"/>
+<vertex x="2.73" y="0.15"/>
+<vertex x="2.71" y="0.2"/>
+<vertex x="2.69" y="0.25"/>
+<vertex x="2.66" y="0.29"/>
+<vertex x="2.63" y="0.33"/>
+<vertex x="2.6" y="0.37"/>
+<vertex x="2.56" y="0.4"/>
+<vertex x="2.52" y="0.43"/>
+<vertex x="2.47" y="0.45"/>
+<vertex x="2.43" y="0.47"/>
+<vertex x="2.38" y="0.49"/>
+<vertex x="2.33" y="0.5"/>
+<vertex x="2.28" y="0.51"/>
+<vertex x="-2.24" y="0.51"/>
+<vertex x="-2.19" y="0.35"/>
+<vertex x="-2.15" y="0.37"/>
+<vertex x="-2.09" y="0.37"/>
+<vertex x="-2.05" y="0.35"/>
+<vertex x="-2.03" y="0.31"/>
+<vertex x="-2.03" y="0"/>
+<vertex x="-2.03" y="-0.05"/>
+<vertex x="-2.01" y="-0.1"/>
+<vertex x="-1.99" y="-0.14"/>
+<vertex x="-1.95" y="-0.17"/>
+<vertex x="-1.9" y="-0.18"/>
+<vertex x="-1.85" y="-0.18"/>
+<vertex x="-1.8" y="-0.15"/>
+<vertex x="-1.77" y="-0.11"/>
+<vertex x="-1.75" y="-0.07"/>
+<vertex x="-1.75" y="-0.02"/>
+<vertex x="-1.75" y="0.29"/>
+<vertex x="-1.74" y="0.34"/>
+<vertex x="-1.69" y="0.37"/>
+<vertex x="-1.64" y="0.37"/>
+<vertex x="-1.59" y="0.35"/>
+<vertex x="-1.58" y="0.31"/>
+<vertex x="-1.57" y="0"/>
+<vertex x="-1.58" y="-0.05"/>
+<vertex x="-1.58" y="-0.1"/>
+<vertex x="-1.6" y="-0.15"/>
+<vertex x="-1.44" y="-0.18"/>
+<vertex x="-1.42" y="-0.14"/>
+<vertex x="-1.37" y="-0.11"/>
+<vertex x="-1.33" y="-0.1"/>
+<vertex x="-1.28" y="-0.13"/>
+<vertex x="-1.24" y="-0.17"/>
+<vertex x="-1.19" y="-0.19"/>
+<vertex x="-1.14" y="-0.19"/>
+<vertex x="-1.1" y="-0.16"/>
+<vertex x="-1.09" y="-0.11"/>
+<vertex x="-1.12" y="-0.08"/>
+<vertex x="-1.17" y="-0.06"/>
+<vertex x="-1.22" y="-0.05"/>
+<vertex x="-1.27" y="-0.04"/>
+<vertex x="-1.32" y="-0.02"/>
+<vertex x="-1.36" y="0.01"/>
+<vertex x="-1.39" y="0.05"/>
+<vertex x="-1.42" y="0.09"/>
+<vertex x="-1.43" y="0.14"/>
+<vertex x="-1.43" y="0.19"/>
+<vertex x="-1.41" y="0.24"/>
+<vertex x="-1.39" y="0.29"/>
+<vertex x="-1.36" y="0.33"/>
+<vertex x="-1.32" y="0.35"/>
+<vertex x="-1.27" y="0.37"/>
+<vertex x="-1.22" y="0.38"/>
+<vertex x="-1.16" y="0.38"/>
+<vertex x="-1.11" y="0.37"/>
+<vertex x="-1.06" y="0.36"/>
+<vertex x="-1.02" y="0.34"/>
+<vertex x="-0.98" y="0.3"/>
+<vertex x="-0.96" y="0.26"/>
+<vertex x="-0.98" y="0.22"/>
+<vertex x="-1.02" y="0.18"/>
+<vertex x="-1.06" y="0.17"/>
+<vertex x="-1.11" y="0.19"/>
+<vertex x="-1.15" y="0.22"/>
+<vertex x="-1.2" y="0.22"/>
+<vertex x="-1.25" y="0.2"/>
+<vertex x="-1.25" y="0.15"/>
+<vertex x="-1.22" y="0.12"/>
+<vertex x="-1.17" y="0.1"/>
+<vertex x="-1.07" y="0.07"/>
+<vertex x="-1.02" y="0.06"/>
+<vertex x="-0.98" y="0.03"/>
+<vertex x="-0.95" y="-0.01"/>
+<vertex x="-0.93" y="-0.05"/>
+<vertex x="-0.92" y="-0.1"/>
+<vertex x="-0.92" y="-0.16"/>
+<vertex x="-0.93" y="-0.21"/>
+<vertex x="-0.75" y="-0.27"/>
+<vertex x="-0.75" y="0.29"/>
+<vertex x="-0.74" y="0.34"/>
+<vertex x="-0.71" y="0.36"/>
+<vertex x="-0.65" y="0.37"/>
+<vertex x="-0.45" y="0.37"/>
+<vertex x="-0.4" y="0.36"/>
+<vertex x="-0.35" y="0.34"/>
+<vertex x="-0.31" y="0.31"/>
+<vertex x="-0.27" y="0.28"/>
+<vertex x="-0.24" y="0.24"/>
+<vertex x="-0.21" y="0.19"/>
+<vertex x="-0.2" y="0.15"/>
+<vertex x="-0.2" y="0.09"/>
+<vertex x="-0.21" y="0.04"/>
+<vertex x="-0.22" y="-0.01"/>
+<vertex x="-0.27" y="-0.08"/>
+<vertex x="-0.23" y="-0.17"/>
+<vertex x="-0.21" y="-0.23"/>
+<vertex x="-0.2" y="-0.26"/>
+<vertex x="-0.04" y="-0.27"/>
+<vertex x="-0.04" y="0.29"/>
+<vertex x="-0.03" y="0.33"/>
+<vertex x="0" y="0.36"/>
+<vertex x="0.06" y="0.36"/>
+<vertex x="0.27" y="0.36"/>
+<vertex x="0.32" y="0.36"/>
+<vertex x="0.37" y="0.35"/>
+<vertex x="0.41" y="0.33"/>
+<vertex x="0.45" y="0.29"/>
+<vertex x="0.48" y="0.25"/>
+<vertex x="0.5" y="0.2"/>
+<vertex x="0.65" y="0.26"/>
+<vertex x="0.65" y="0.31"/>
+<vertex x="0.67" y="0.35"/>
+<vertex x="0.74" y="0.36"/>
+<vertex x="1.25" y="0.36"/>
+<vertex x="1.3" y="0.36"/>
+<vertex x="1.33" y="0.32"/>
+<vertex x="1.33" y="0.27"/>
+<vertex x="1.51" y="0.3"/>
+<vertex x="1.52" y="0.34"/>
+<vertex x="1.57" y="0.36"/>
+<vertex x="1.62" y="0.36"/>
+<vertex x="1.66" y="0.34"/>
+<vertex x="1.7" y="0.29"/>
+<vertex x="1.95" y="-0.04"/>
+<vertex x="1.96" y="-0.04"/>
+<vertex x="1.96" y="0.26"/>
+<vertex x="1.96" y="0.32"/>
+<vertex x="1.98" y="0.35"/>
+<vertex x="2.02" y="0.36"/>
+<vertex x="2.08" y="0.36"/>
+<vertex x="2.12" y="0.34"/>
+<vertex x="2.13" y="0.29"/>
+<vertex x="2.13" y="-0.27"/>
+<vertex x="2.13" y="-0.32"/>
+<vertex x="2.1" y="-0.35"/>
+<vertex x="2.03" y="-0.36"/>
+<vertex x="1.99" y="-0.35"/>
+<vertex x="1.94" y="-0.3"/>
+<vertex x="1.71" y="0"/>
+<vertex x="1.68" y="0.05"/>
+<vertex x="1.68" y="-0.31"/>
+<vertex x="1.65" y="-0.34"/>
+<vertex x="1.6" y="-0.36"/>
+<vertex x="1.54" y="-0.35"/>
+<vertex x="1.51" y="-0.32"/>
+<vertex x="1.51" y="-0.27"/>
+<vertex x="1.51" y="0.3"/>
+<vertex x="1.33" y="0.27"/>
+<vertex x="1.31" y="0.23"/>
+<vertex x="1.26" y="0.22"/>
+<vertex x="1.11" y="0.22"/>
+<vertex x="1.08" y="0.2"/>
+<vertex x="1.08" y="-0.26"/>
+<vertex x="1.07" y="-0.31"/>
+<vertex x="1.05" y="-0.35"/>
+<vertex x="1" y="-0.36"/>
+<vertex x="0.94" y="-0.35"/>
+<vertex x="0.91" y="-0.32"/>
+<vertex x="0.91" y="-0.27"/>
+<vertex x="0.91" y="0.19"/>
+<vertex x="0.89" y="0.22"/>
+<vertex x="0.73" y="0.22"/>
+<vertex x="0.68" y="0.22"/>
+<vertex x="0.65" y="0.26"/>
+<vertex x="0.5" y="0.2"/>
+<vertex x="0.5" y="0.15"/>
+<vertex x="0.5" y="0.1"/>
+<vertex x="0.48" y="0.05"/>
+<vertex x="0.47" y="0.02"/>
+<vertex x="0.5" y="-0.02"/>
+<vertex x="0.52" y="-0.07"/>
+<vertex x="0.52" y="-0.12"/>
+<vertex x="0.52" y="-0.17"/>
+<vertex x="0.51" y="-0.22"/>
+<vertex x="0.48" y="-0.26"/>
+<vertex x="0.45" y="-0.3"/>
+<vertex x="0.41" y="-0.33"/>
+<vertex x="0.36" y="-0.35"/>
+<vertex x="0.31" y="-0.36"/>
+<vertex x="0.06" y="-0.36"/>
+<vertex x="0" y="-0.35"/>
+<vertex x="-0.03" y="-0.32"/>
+<vertex x="-0.04" y="-0.27"/>
+<vertex x="-0.2" y="-0.27"/>
+<vertex x="-0.2" y="-0.3"/>
+<vertex x="-0.24" y="-0.33"/>
+<vertex x="-0.29" y="-0.35"/>
+<vertex x="-0.34" y="-0.34"/>
+<vertex x="-0.36" y="-0.32"/>
+<vertex x="-0.42" y="-0.16"/>
+<vertex x="-0.47" y="-0.15"/>
+<vertex x="-0.57" y="-0.15"/>
+<vertex x="-0.58" y="-0.2"/>
+<vertex x="-0.58" y="-0.25"/>
+<vertex x="-0.58" y="-0.3"/>
+<vertex x="-0.6" y="-0.34"/>
+<vertex x="-0.65" y="-0.35"/>
+<vertex x="-0.72" y="-0.34"/>
+<vertex x="-0.75" y="-0.32"/>
+<vertex x="-0.75" y="-0.27"/>
+<vertex x="-0.93" y="-0.21"/>
+<vertex x="-0.96" y="-0.25"/>
+<vertex x="-0.99" y="-0.29"/>
+<vertex x="-1.03" y="-0.32"/>
+<vertex x="-1.08" y="-0.34"/>
+<vertex x="-1.13" y="-0.35"/>
+<vertex x="-1.18" y="-0.36"/>
+<vertex x="-1.23" y="-0.35"/>
+<vertex x="-1.28" y="-0.34"/>
+<vertex x="-1.33" y="-0.32"/>
+<vertex x="-1.37" y="-0.29"/>
+<vertex x="-1.4" y="-0.25"/>
+<vertex x="-1.43" y="-0.22"/>
+<vertex x="-1.44" y="-0.18"/>
+<vertex x="-1.6" y="-0.15"/>
+<vertex x="-1.62" y="-0.19"/>
+<vertex x="-1.65" y="-0.23"/>
+<vertex x="-1.68" y="-0.27"/>
+<vertex x="-1.72" y="-0.3"/>
+<vertex x="-1.77" y="-0.33"/>
+<vertex x="-1.81" y="-0.35"/>
+<vertex x="-1.86" y="-0.35"/>
+<vertex x="-1.92" y="-0.35"/>
+<vertex x="-1.97" y="-0.35"/>
+<vertex x="-2.01" y="-0.33"/>
+<vertex x="-2.06" y="-0.31"/>
+<vertex x="-2.1" y="-0.28"/>
+<vertex x="-2.13" y="-0.24"/>
+<vertex x="-2.16" y="-0.2"/>
+<vertex x="-2.18" y="-0.15"/>
+<vertex x="-2.19" y="-0.1"/>
+<vertex x="-2.2" y="-0.05"/>
+<vertex x="-2.2" y="0"/>
+<vertex x="-2.2" y="0.31"/>
+<vertex x="-2.19" y="0.35"/>
+<vertex x="-2.25" y="0.51"/>
+</polygon>
+<polygon width="0.01" layer="21">
+<vertex x="-0.53" y="0.02"/>
+<vertex x="-0.48" y="0.02"/>
+<vertex x="-0.43" y="0.02"/>
+<vertex x="-0.39" y="0.05"/>
+<vertex x="-0.37" y="0.1"/>
+<vertex x="-0.38" y="0.15"/>
+<vertex x="-0.42" y="0.18"/>
+<vertex x="-0.47" y="0.19"/>
+<vertex x="-0.57" y="0.19"/>
+<vertex x="-0.58" y="0.15"/>
+<vertex x="-0.58" y="0.05"/>
+</polygon>
+<polygon width="0.01" layer="21">
+<vertex x="0.35" y="-0.1"/>
+<vertex x="0.33" y="-0.06"/>
+<vertex x="0.27" y="-0.05"/>
+<vertex x="0.22" y="-0.04"/>
+<vertex x="0.2" y="0"/>
+<vertex x="0.21" y="0.06"/>
+<vertex x="0.24" y="0.08"/>
+<vertex x="0.3" y="0.09"/>
+<vertex x="0.33" y="0.12"/>
+<vertex x="0.32" y="0.17"/>
+<vertex x="0.28" y="0.19"/>
+<vertex x="0.18" y="0.19"/>
+<vertex x="0.13" y="0.18"/>
+<vertex x="0.13" y="-0.17"/>
+<vertex x="0.17" y="-0.18"/>
+<vertex x="0.27" y="-0.18"/>
+<vertex x="0.32" y="-0.18"/>
+<vertex x="0.35" y="-0.14"/>
+</polygon>
+</package>
+<package name="#RGB#0">
+<polygon width="0.01" layer="21">
+<vertex x="-1.15" y="0.51"/>
+<vertex x="-1.2" y="0.5"/>
+<vertex x="-1.25" y="0.49"/>
+<vertex x="-1.3" y="0.47"/>
+<vertex x="-1.35" y="0.45"/>
+<vertex x="-1.39" y="0.42"/>
+<vertex x="-1.43" y="0.39"/>
+<vertex x="-1.47" y="0.36"/>
+<vertex x="-1.5" y="0.32"/>
+<vertex x="-1.53" y="0.28"/>
+<vertex x="-1.56" y="0.23"/>
+<vertex x="-1.58" y="0.19"/>
+<vertex x="-1.59" y="0.14"/>
+<vertex x="-1.61" y="0.09"/>
+<vertex x="-1.61" y="0.04"/>
+<vertex x="-1.61" y="-0.01"/>
+<vertex x="-1.61" y="-0.06"/>
+<vertex x="-1.6" y="-0.11"/>
+<vertex x="-1.59" y="-0.16"/>
+<vertex x="-1.57" y="-0.21"/>
+<vertex x="-1.54" y="-0.25"/>
+<vertex x="-1.52" y="-0.3"/>
+<vertex x="-1.49" y="-0.34"/>
+<vertex x="-1.45" y="-0.37"/>
+<vertex x="-1.41" y="-0.41"/>
+<vertex x="-1.37" y="-0.43"/>
+<vertex x="-1.32" y="-0.46"/>
+<vertex x="-1.28" y="-0.48"/>
+<vertex x="-1.23" y="-0.49"/>
+<vertex x="-1.18" y="-0.5"/>
+<vertex x="-1.13" y="-0.51"/>
+<vertex x="-1.08" y="-0.51"/>
+<vertex x="1.1" y="-0.51"/>
+<vertex x="1.15" y="-0.51"/>
+<vertex x="1.2" y="-0.5"/>
+<vertex x="1.25" y="-0.49"/>
+<vertex x="1.3" y="-0.47"/>
+<vertex x="1.35" y="-0.45"/>
+<vertex x="1.39" y="-0.42"/>
+<vertex x="1.43" y="-0.39"/>
+<vertex x="1.47" y="-0.35"/>
+<vertex x="1.5" y="-0.32"/>
+<vertex x="1.53" y="-0.28"/>
+<vertex x="1.56" y="-0.23"/>
+<vertex x="1.58" y="-0.19"/>
+<vertex x="1.59" y="-0.14"/>
+<vertex x="1.61" y="-0.09"/>
+<vertex x="1.61" y="-0.04"/>
+<vertex x="1.61" y="0.01"/>
+<vertex x="1.61" y="0.06"/>
+<vertex x="1.6" y="0.11"/>
+<vertex x="1.59" y="0.16"/>
+<vertex x="1.57" y="0.21"/>
+<vertex x="1.54" y="0.25"/>
+<vertex x="1.52" y="0.3"/>
+<vertex x="1.48" y="0.34"/>
+<vertex x="1.45" y="0.37"/>
+<vertex x="1.41" y="0.41"/>
+<vertex x="1.37" y="0.43"/>
+<vertex x="1.32" y="0.46"/>
+<vertex x="1.28" y="0.48"/>
+<vertex x="1.23" y="0.49"/>
+<vertex x="1.18" y="0.5"/>
+<vertex x="1.13" y="0.51"/>
+<vertex x="1.08" y="0.51"/>
+<vertex x="-1.1" y="0.51"/>
+<vertex x="-1.04" y="0.36"/>
+<vertex x="-0.98" y="0.37"/>
+<vertex x="-0.78" y="0.37"/>
+<vertex x="-0.73" y="0.36"/>
+<vertex x="-0.68" y="0.35"/>
+<vertex x="-0.64" y="0.33"/>
+<vertex x="-0.59" y="0.29"/>
+<vertex x="-0.56" y="0.26"/>
+<vertex x="-0.53" y="0.21"/>
+<vertex x="-0.52" y="0.17"/>
+<vertex x="-0.51" y="0.11"/>
+<vertex x="-0.51" y="0.06"/>
+<vertex x="-0.37" y="0.04"/>
+<vertex x="-0.36" y="0.09"/>
+<vertex x="-0.35" y="0.14"/>
+<vertex x="-0.33" y="0.19"/>
+<vertex x="-0.3" y="0.23"/>
+<vertex x="-0.27" y="0.27"/>
+<vertex x="-0.23" y="0.3"/>
+<vertex x="-0.19" y="0.33"/>
+<vertex x="-0.14" y="0.35"/>
+<vertex x="-0.1" y="0.37"/>
+<vertex x="-0.05" y="0.38"/>
+<vertex x="0.01" y="0.38"/>
+<vertex x="0.06" y="0.38"/>
+<vertex x="0.1" y="0.36"/>
+<vertex x="0.15" y="0.35"/>
+<vertex x="0.19" y="0.32"/>
+<vertex x="0.24" y="0.28"/>
+<vertex x="0.24" y="0.24"/>
+<vertex x="0.2" y="0.19"/>
+<vertex x="0.16" y="0.16"/>
+<vertex x="0.13" y="0.16"/>
+<vertex x="0.08" y="0.19"/>
+<vertex x="0.03" y="0.2"/>
+<vertex x="-0.02" y="0.21"/>
+<vertex x="-0.07" y="0.2"/>
+<vertex x="-0.12" y="0.18"/>
+<vertex x="-0.15" y="0.14"/>
+<vertex x="-0.18" y="0.1"/>
+<vertex x="-0.19" y="0.05"/>
+<vertex x="-0.19" y="0"/>
+<vertex x="-0.18" y="-0.05"/>
+<vertex x="-0.16" y="-0.1"/>
+<vertex x="-0.13" y="-0.13"/>
+<vertex x="-0.08" y="-0.16"/>
+<vertex x="-0.04" y="-0.18"/>
+<vertex x="0.01" y="-0.18"/>
+<vertex x="0.06" y="-0.17"/>
+<vertex x="0.09" y="-0.14"/>
+<vertex x="0.09" y="-0.09"/>
+<vertex x="0.07" y="-0.06"/>
+<vertex x="0.02" y="-0.06"/>
+<vertex x="-0.03" y="-0.05"/>
+<vertex x="-0.05" y="-0.01"/>
+<vertex x="-0.05" y="0.05"/>
+<vertex x="-0.02" y="0.08"/>
+<vertex x="0.04" y="0.09"/>
+<vertex x="0.2" y="0.09"/>
+<vertex x="0.24" y="0.07"/>
+<vertex x="0.26" y="0.03"/>
+<vertex x="0.26" y="-0.18"/>
+<vertex x="0.26" y="-0.23"/>
+<vertex x="0.43" y="-0.28"/>
+<vertex x="0.43" y="0.28"/>
+<vertex x="0.44" y="0.33"/>
+<vertex x="0.47" y="0.36"/>
+<vertex x="0.53" y="0.36"/>
+<vertex x="0.78" y="0.36"/>
+<vertex x="0.83" y="0.35"/>
+<vertex x="0.88" y="0.33"/>
+<vertex x="0.91" y="0.3"/>
+<vertex x="0.95" y="0.25"/>
+<vertex x="0.96" y="0.21"/>
+<vertex x="0.97" y="0.16"/>
+<vertex x="0.97" y="0.11"/>
+<vertex x="0.96" y="0.06"/>
+<vertex x="0.94" y="0.03"/>
+<vertex x="0.97" y="-0.02"/>
+<vertex x="0.98" y="-0.06"/>
+<vertex x="0.99" y="-0.11"/>
+<vertex x="0.99" y="-0.17"/>
+<vertex x="0.98" y="-0.21"/>
+<vertex x="0.95" y="-0.26"/>
+<vertex x="0.92" y="-0.3"/>
+<vertex x="0.88" y="-0.33"/>
+<vertex x="0.83" y="-0.35"/>
+<vertex x="0.78" y="-0.36"/>
+<vertex x="0.53" y="-0.36"/>
+<vertex x="0.47" y="-0.35"/>
+<vertex x="0.44" y="-0.33"/>
+<vertex x="0.43" y="-0.28"/>
+<vertex x="0.26" y="-0.23"/>
+<vertex x="0.23" y="-0.27"/>
+<vertex x="0.2" y="-0.3"/>
+<vertex x="0.16" y="-0.32"/>
+<vertex x="0.11" y="-0.34"/>
+<vertex x="0.06" y="-0.35"/>
+<vertex x="0" y="-0.36"/>
+<vertex x="-0.05" y="-0.35"/>
+<vertex x="-0.1" y="-0.34"/>
+<vertex x="-0.15" y="-0.33"/>
+<vertex x="-0.19" y="-0.3"/>
+<vertex x="-0.23" y="-0.27"/>
+<vertex x="-0.27" y="-0.24"/>
+<vertex x="-0.3" y="-0.2"/>
+<vertex x="-0.33" y="-0.15"/>
+<vertex x="-0.35" y="-0.11"/>
+<vertex x="-0.36" y="-0.06"/>
+<vertex x="-0.37" y="-0.01"/>
+<vertex x="-0.37" y="0.04"/>
+<vertex x="-0.51" y="0.06"/>
+<vertex x="-0.53" y="0.01"/>
+<vertex x="-0.55" y="-0.03"/>
+<vertex x="-0.58" y="-0.07"/>
+<vertex x="-0.57" y="-0.11"/>
+<vertex x="-0.53" y="-0.2"/>
+<vertex x="-0.51" y="-0.25"/>
+<vertex x="-0.51" y="-0.29"/>
+<vertex x="-0.54" y="-0.32"/>
+<vertex x="-0.59" y="-0.35"/>
+<vertex x="-0.64" y="-0.35"/>
+<vertex x="-0.67" y="-0.33"/>
+<vertex x="-0.72" y="-0.19"/>
+<vertex x="-0.77" y="-0.15"/>
+<vertex x="-0.87" y="-0.15"/>
+<vertex x="-0.89" y="-0.18"/>
+<vertex x="-0.89" y="-0.28"/>
+<vertex x="-0.9" y="-0.33"/>
+<vertex x="-0.94" y="-0.35"/>
+<vertex x="-1.01" y="-0.35"/>
+<vertex x="-1.05" y="-0.33"/>
+<vertex x="-1.06" y="-0.29"/>
+<vertex x="-1.06" y="0.27"/>
+<vertex x="-1.06" y="0.32"/>
+<vertex x="-1.04" y="0.35"/>
+<vertex x="-1.11" y="0.51"/>
+</polygon>
+<polygon width="0.01" layer="21">
+<vertex x="-0.86" y="0.02"/>
+<vertex x="-0.76" y="0.02"/>
+<vertex x="-0.71" y="0.04"/>
+<vertex x="-0.69" y="0.08"/>
+<vertex x="-0.69" y="0.13"/>
+<vertex x="-0.71" y="0.17"/>
+<vertex x="-0.76" y="0.19"/>
+<vertex x="-0.86" y="0.19"/>
+<vertex x="-0.89" y="0.17"/>
+<vertex x="-0.89" y="0.02"/>
+</polygon>
+<polygon width="0.01" layer="21">
+<vertex x="0.82" y="-0.1"/>
+<vertex x="0.8" y="-0.06"/>
+<vertex x="0.75" y="-0.05"/>
+<vertex x="0.7" y="-0.04"/>
+<vertex x="0.68" y="-0.01"/>
+<vertex x="0.68" y="0.05"/>
+<vertex x="0.7" y="0.08"/>
+<vertex x="0.76" y="0.09"/>
+<vertex x="0.8" y="0.11"/>
+<vertex x="0.8" y="0.16"/>
+<vertex x="0.76" y="0.19"/>
+<vertex x="0.61" y="0.19"/>
+<vertex x="0.6" y="0.14"/>
+<vertex x="0.6" y="-0.16"/>
+<vertex x="0.63" y="-0.18"/>
+<vertex x="0.73" y="-0.18"/>
+<vertex x="0.79" y="-0.18"/>
+<vertex x="0.82" y="-0.15"/>
+</polygon>
+</package>
 </packages>
 </library>
 <library name="SparkFun_MicroMod_Function_Board_Blues_Notecarrier">
@@ -9879,7 +10455,7 @@ These design rules are smaller than the &lt;a href=&quot;https://jlcpcb.com/capa
 </element>
 <element name="D9" library="SparkFun_MicroMod_Function_Board_Blues_Notecarrier" package="DO-214AA" value="SMBJP6KE6.8A-TP" x="20" y="56.2" smashed="yes">
 <attribute name="I_PP" value="58.1A" x="20" y="56.2" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
-<attribute name="PROD_ID" value="" x="20" y="56.2" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
+<attribute name="PROD_ID" value="DIO-17055" x="20" y="56.2" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 <attribute name="P_PK" value="600W" x="20" y="56.2" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 <attribute name="VCLMP" value="10.5V" x="20" y="56.2" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 <attribute name="VWM" value="5.8V" x="20" y="56.2" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
@@ -9898,15 +10474,15 @@ These design rules are smaller than the &lt;a href=&quot;https://jlcpcb.com/capa
 <attribute name="NAME" x="22.657" y="63.4" size="0.6096" layer="26" font="vector" ratio="20" rot="MR270" align="bottom-center"/>
 <attribute name="VALUE" x="24.943" y="63.4" size="0.6096" layer="28" font="vector" ratio="20" rot="MR270" align="top-center"/>
 </element>
-<element name="Q5" library="SparkFun-DiscreteSemi" package="SOT23-3" value="220mA/50V/3.5Ω" x="2.4" y="34.7" smashed="yes" rot="R90">
-<attribute name="NAME" x="2.4" y="33.049" size="0.6096" layer="25" font="vector" ratio="20" rot="R180" align="bottom-center"/>
-<attribute name="PROD_ID" value="TRANS-00830" x="-9.2" y="34.7" size="1.778" layer="27" font="vector" ratio="15" rot="R90" display="off"/>
-<attribute name="VALUE" x="2.4" y="36.351" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
+<element name="Q5" library="SparkFun-DiscreteSemi" package="SOT23-3" value="220mA/50V/3.5Ω" x="2.3" y="34.7" smashed="yes" rot="R90">
+<attribute name="NAME" x="2.3" y="33.049" size="0.6096" layer="25" font="vector" ratio="20" rot="R180" align="bottom-center"/>
+<attribute name="PROD_ID" value="TRANS-00830" x="-9.3" y="34.7" size="1.778" layer="27" font="vector" ratio="15" rot="R90" display="off"/>
+<attribute name="VALUE" x="2.3" y="36.351" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
-<element name="Q6" library="SparkFun-DiscreteSemi" package="SOT23-3" value="20V/4.2A/52mΩ/1.4W" x="2.4" y="39.3" smashed="yes" rot="R90">
-<attribute name="NAME" x="2.4" y="37.649" size="0.6096" layer="25" font="vector" ratio="20" rot="R180" align="bottom-center"/>
-<attribute name="PROD_ID" value="TRANS-14388" x="5" y="39.3" size="1.778" layer="27" font="vector" ratio="15" rot="R90" display="off"/>
-<attribute name="VALUE" x="2.4" y="40.951" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
+<element name="Q6" library="SparkFun-DiscreteSemi" package="SOT23-3" value="20V/4.2A/52mΩ/1.4W" x="2.3" y="39.3" smashed="yes" rot="R90">
+<attribute name="NAME" x="2.3" y="37.649" size="0.6096" layer="25" font="vector" ratio="20" rot="R180" align="bottom-center"/>
+<attribute name="PROD_ID" value="TRANS-14388" x="4.9" y="39.3" size="1.778" layer="27" font="vector" ratio="15" rot="R90" display="off"/>
+<attribute name="VALUE" x="2.3" y="40.951" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
 <element name="R10" library="SparkFun-Resistors" package="0402-TIGHT" value="10k" x="3.9" y="37" smashed="yes">
 <attribute name="NAME" x="3.9" y="37.562" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
@@ -9928,6 +10504,8 @@ These design rules are smaller than the &lt;a href=&quot;https://jlcpcb.com/capa
 <element name="U$11" library="output" package="#_ATXO#0" value="" x="1.9" y="26.54" smashed="yes"/>
 <element name="U$13" library="output" package="#_AEN#0" value="" x="1.9" y="31.62" smashed="yes"/>
 <element name="U$24" library="output" package="#RGB_#0" value="" x="23.8" y="59" smashed="yes" rot="MR90"/>
+<element name="U$25" library="output" package="#USRBTN#0" value="" x="20.4" y="60.8" smashed="yes" rot="R90"/>
+<element name="U$26" library="output" package="#RGB#0" value="" x="23" y="59.25" smashed="yes"/>
 <element name="U3" library="SparkFun-IC-Memory" package="SO08" value="EEPROM" x="72.000940625" y="8.7" smashed="yes">
 <attribute name="NAME" x="68.825940625" y="8.7" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>
 <attribute name="PROD_ID" value="IC-14645" x="72.000940625" y="8.7" size="1.778" layer="27" display="off"/>
@@ -10115,11 +10693,11 @@ These design rules are smaller than the &lt;a href=&quot;https://jlcpcb.com/capa
 <attribute name="PROD_ID" value="RES-14844" x="41.900940625" y="20.5" size="1.778" layer="27" display="off"/>
 <attribute name="VALUE" value="2.2M" x="41.900940625" y="19.938" size="0.6096" layer="27" font="vector" ratio="20" align="top-center"/>
 </element>
-<element name="U$25" library="output" package="AEN1" value="" x="52.800940625" y="57.3" smashed="yes"/>
-<element name="U$26" library="output" package="VIN3" value="" x="52.800940625" y="60.8" smashed="yes"/>
-<element name="U$27" library="output" package="VIO4" value="" x="52.800940625" y="64.3" smashed="yes"/>
-<element name="U$28" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_STOP_.1" value="" x="41.600940625" y="46.5" smashed="yes"/>
-<element name="U$32" library="output" package="#_GND_#0" value="" x="39.900940625" y="24" smashed="yes"/>
+<element name="U$27" library="output" package="AEN1" value="" x="52.800940625" y="57.3" smashed="yes"/>
+<element name="U$28" library="output" package="VIN3" value="" x="52.800940625" y="60.8" smashed="yes"/>
+<element name="U$32" library="output" package="VIO4" value="" x="52.800940625" y="64.3" smashed="yes"/>
+<element name="U$33" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_STOP_.1" value="" x="41.600940625" y="46.5" smashed="yes"/>
+<element name="U$34" library="output" package="#_GND_#0" value="" x="39.900940625" y="24" smashed="yes"/>
 <element name="C16" library="SparkFun-Capacitors" package="0805" value="10uF" x="40.300940625" y="49.4" smashed="yes" rot="R180">
 <attribute name="NAME" x="40.300940625" y="48.511" size="0.6096" layer="25" font="vector" ratio="20" rot="R180" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-11330" x="40.300940625" y="49.4" size="1" layer="27" font="vector" rot="R180" display="off"/>
@@ -10156,22 +10734,22 @@ These design rules are smaller than the &lt;a href=&quot;https://jlcpcb.com/capa
 <attribute name="PROD_ID" value="CAP-12417" x="74.250940625" y="14.4" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VALUE" x="73.688940625" y="14.4" size="0.6096" layer="27" font="vector" ratio="20" rot="R270" align="top-center"/>
 </element>
-<element name="U$33" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_FLAME_.2" value="" x="56.750940625" y="43" smashed="yes" rot="MR0"/>
+<element name="U$35" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_FLAME_.2" value="" x="56.750940625" y="43" smashed="yes" rot="MR0"/>
 <element name="D18" library="SparkFun-DiscreteSemi" package="SOD-323" value="0.5A/40V/420mV" x="65.400940625" y="10.6" smashed="yes" rot="R180">
 <attribute name="NAME" x="65.400940625" y="9.838" size="0.6096" layer="25" font="vector" ratio="20" rot="R180" align="bottom-center"/>
 <attribute name="PROD_ID" value="DIO-10955" x="67.300940625" y="10.6" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="65.400940625" y="11.362" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
-<element name="U$34" library="output" package="#_WP#2" value="" x="70.700940625" y="8.7" smashed="yes" rot="MR0"/>
-<element name="U$35" library="output" package="#MEAS#4" value="" x="46.000940625" y="8.2" smashed="yes" rot="MR90"/>
-<element name="U$36" library="output" package="#MEAS#4" value="" x="49.400940625" y="8.2" smashed="yes" rot="R90"/>
-<element name="U$37" library="output" package="#_ANT_PWR#5" value="" x="56.700940625" y="23" smashed="yes" rot="MR0"/>
-<element name="U$38" library="output" package="#PWR_LED_#17" value="" x="60.400940625" y="59.7" smashed="yes" rot="MR0"/>
-<element name="U$39" library="output" package="#AUX_EN_LED_#20" value="" x="62.800940625" y="56.2" smashed="yes" rot="MR0"/>
-<element name="U$40" library="output" package="#VIO_LED_#21" value="" x="59.900940625" y="63.1" smashed="yes" rot="MR0"/>
-<element name="U$41" library="output" package="#_SHLD#23" value="" x="72.000940625" y="62" smashed="yes" rot="MR0"/>
-<element name="U$42" library="output" package="#_GND_#24" value="" x="45.000940625" y="24" smashed="yes" rot="MR0"/>
-<element name="U$43" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="41.600940625" y="42.2" smashed="yes"/>
+<element name="U$36" library="output" package="#_WP#2" value="" x="70.700940625" y="8.7" smashed="yes" rot="MR0"/>
+<element name="U$37" library="output" package="#MEAS#4" value="" x="46.000940625" y="8.2" smashed="yes" rot="MR90"/>
+<element name="U$38" library="output" package="#MEAS#4" value="" x="49.400940625" y="8.2" smashed="yes" rot="R90"/>
+<element name="U$39" library="output" package="#_ANT_PWR#5" value="" x="56.700940625" y="23" smashed="yes" rot="MR0"/>
+<element name="U$40" library="output" package="#PWR_LED_#17" value="" x="60.400940625" y="59.7" smashed="yes" rot="MR0"/>
+<element name="U$41" library="output" package="#AUX_EN_LED_#20" value="" x="62.800940625" y="56.2" smashed="yes" rot="MR0"/>
+<element name="U$42" library="output" package="#VIO_LED_#21" value="" x="59.900940625" y="63.1" smashed="yes" rot="MR0"/>
+<element name="U$43" library="output" package="#_SHLD#23" value="" x="72.000940625" y="62" smashed="yes" rot="MR0"/>
+<element name="U$44" library="output" package="#_GND_#24" value="" x="45.000940625" y="24" smashed="yes" rot="MR0"/>
+<element name="U$45" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="41.600940625" y="42.2" smashed="yes"/>
 <element name="R30" library="SparkFun-Resistors" package="0402-TIGHT" value="100" x="61.250940625" y="6" smashed="yes">
 <attribute name="NAME" x="61.200940625" y="6.562" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="RES-14962" x="61.200940625" y="6" size="1" layer="27" font="vector" ratio="15" display="off"/>
@@ -10187,7 +10765,7 @@ These design rules are smaller than the &lt;a href=&quot;https://jlcpcb.com/capa
 <attribute name="PROD_ID" value="RES-08269" x="46.800940625" y="5.1" size="1.8" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 <attribute name="VALUE" x="46.800940625" y="5.862" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
-<element name="U$44" library="output" package="#AUX_EN_#0" value="" x="47.300940625" y="31.62" smashed="yes" rot="MR0"/>
+<element name="U$46" library="output" package="#AUX_EN_#0" value="" x="47.300940625" y="31.62" smashed="yes" rot="MR0"/>
 <element name="J10" library="SparkFun-Connectors" package="1X04_NO_SILK" value="" x="39.900940625" y="24" smashed="yes" rot="R90">
 <attribute name="NAME" x="38.503940625" y="22.73" size="0.6096" layer="25" font="vector" ratio="20" rot="R90"/>
 <attribute name="VALUE" x="41.932940625" y="22.73" size="0.6096" layer="27" font="vector" ratio="20" rot="R90"/>
@@ -10199,7 +10777,7 @@ These design rules are smaller than the &lt;a href=&quot;https://jlcpcb.com/capa
 </element>
 <element name="D19" library="SparkFun_MicroMod_Function_Board_Blues_Notecarrier" package="DO-214AA" value="SMBJP6KE6.8A-TP" x="58.000940625" y="56.2" smashed="yes">
 <attribute name="I_PP" value="58.1A" x="58.000940625" y="56.2" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
-<attribute name="PROD_ID" value="" x="58.000940625" y="56.2" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
+<attribute name="PROD_ID" value="DIO-17055" x="58.000940625" y="56.2" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 <attribute name="P_PK" value="600W" x="58.000940625" y="56.2" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 <attribute name="VCLMP" value="10.5V" x="58.000940625" y="56.2" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 <attribute name="VWM" value="5.8V" x="58.000940625" y="56.2" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
@@ -10218,15 +10796,15 @@ These design rules are smaller than the &lt;a href=&quot;https://jlcpcb.com/capa
 <attribute name="NAME" x="60.657940625" y="63.4" size="0.6096" layer="26" font="vector" ratio="20" rot="MR270" align="bottom-center"/>
 <attribute name="VALUE" x="62.943940625" y="63.4" size="0.6096" layer="28" font="vector" ratio="20" rot="MR270" align="top-center"/>
 </element>
-<element name="Q11" library="SparkFun-DiscreteSemi" package="SOT23-3" value="220mA/50V/3.5Ω" x="40.400940625" y="34.7" smashed="yes" rot="R90">
-<attribute name="NAME" x="40.400940625" y="33.049" size="0.6096" layer="25" font="vector" ratio="20" rot="R180" align="bottom-center"/>
-<attribute name="PROD_ID" value="TRANS-00830" x="28.800940625" y="34.7" size="1.778" layer="27" font="vector" ratio="15" rot="R90" display="off"/>
-<attribute name="VALUE" x="40.400940625" y="36.351" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
+<element name="Q11" library="SparkFun-DiscreteSemi" package="SOT23-3" value="220mA/50V/3.5Ω" x="40.300940625" y="34.7" smashed="yes" rot="R90">
+<attribute name="NAME" x="40.300940625" y="33.049" size="0.6096" layer="25" font="vector" ratio="20" rot="R180" align="bottom-center"/>
+<attribute name="PROD_ID" value="TRANS-00830" x="28.700940625" y="34.7" size="1.778" layer="27" font="vector" ratio="15" rot="R90" display="off"/>
+<attribute name="VALUE" x="40.300940625" y="36.351" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
-<element name="Q12" library="SparkFun-DiscreteSemi" package="SOT23-3" value="20V/4.2A/52mΩ/1.4W" x="40.400940625" y="39.3" smashed="yes" rot="R90">
-<attribute name="NAME" x="40.400940625" y="37.649" size="0.6096" layer="25" font="vector" ratio="20" rot="R180" align="bottom-center"/>
-<attribute name="PROD_ID" value="TRANS-14388" x="43.000940625" y="39.3" size="1.778" layer="27" font="vector" ratio="15" rot="R90" display="off"/>
-<attribute name="VALUE" x="40.400940625" y="40.951" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
+<element name="Q12" library="SparkFun-DiscreteSemi" package="SOT23-3" value="20V/4.2A/52mΩ/1.4W" x="40.300940625" y="39.3" smashed="yes" rot="R90">
+<attribute name="NAME" x="40.300940625" y="37.649" size="0.6096" layer="25" font="vector" ratio="20" rot="R180" align="bottom-center"/>
+<attribute name="PROD_ID" value="TRANS-14388" x="42.900940625" y="39.3" size="1.778" layer="27" font="vector" ratio="15" rot="R90" display="off"/>
+<attribute name="VALUE" x="40.300940625" y="40.951" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
 <element name="R33" library="SparkFun-Resistors" package="0402-TIGHT" value="10k" x="41.900940625" y="37" smashed="yes">
 <attribute name="NAME" x="41.900940625" y="37.562" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
@@ -10238,16 +10816,18 @@ These design rules are smaller than the &lt;a href=&quot;https://jlcpcb.com/capa
 <attribute name="PROD_ID" value="RES-14962" x="33.300940625" y="31.5" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 <attribute name="VALUE" x="39.700940625" y="36.438" size="0.6096" layer="27" font="vector" ratio="20" align="top-center"/>
 </element>
-<element name="U$45" library="notehub" package="NOTEHUB_BLUES#SVG5" value="" x="51.400940625" y="54" smashed="yes"/>
-<element name="U$46" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.5" value="" x="57.000940625" y="40.3" smashed="yes" rot="MR0"/>
-<element name="U$47" library="output" package="BLUES_WIRELESS_NOTECARRIER0" value="" x="56.750940625" y="37.7" smashed="yes" rot="MR0"/>
-<element name="U$48" library="notehub" package="NOTEHUB_BLUES#SVG7" value="" x="58.750940625" y="32.5" smashed="yes" rot="MR0"/>
-<element name="U$49" library="output" package="#AUX_TX_#0" value="" x="47.500940625" y="26.54" smashed="yes" rot="MR0"/>
-<element name="U$50" library="output" package="#AUX_RX_#0" value="" x="47.300940625" y="29.08" smashed="yes" rot="MR0"/>
-<element name="U$51" library="output" package="#_ARXI#0" value="" x="39.900940625" y="29.08" smashed="yes"/>
-<element name="U$52" library="output" package="#_ATXO#0" value="" x="39.900940625" y="26.54" smashed="yes"/>
-<element name="U$53" library="output" package="#_AEN#0" value="" x="39.900940625" y="31.62" smashed="yes"/>
-<element name="U$54" library="output" package="#RGB_#0" value="" x="61.800940625" y="59" smashed="yes" rot="MR90"/>
+<element name="U$47" library="notehub" package="NOTEHUB_BLUES#SVG5" value="" x="51.400940625" y="54" smashed="yes"/>
+<element name="U$48" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.5" value="" x="57.000940625" y="40.3" smashed="yes" rot="MR0"/>
+<element name="U$49" library="output" package="BLUES_WIRELESS_NOTECARRIER0" value="" x="56.750940625" y="37.7" smashed="yes" rot="MR0"/>
+<element name="U$50" library="notehub" package="NOTEHUB_BLUES#SVG7" value="" x="58.750940625" y="32.5" smashed="yes" rot="MR0"/>
+<element name="U$51" library="output" package="#AUX_TX_#0" value="" x="47.500940625" y="26.54" smashed="yes" rot="MR0"/>
+<element name="U$52" library="output" package="#AUX_RX_#0" value="" x="47.300940625" y="29.08" smashed="yes" rot="MR0"/>
+<element name="U$53" library="output" package="#_ARXI#0" value="" x="39.900940625" y="29.08" smashed="yes"/>
+<element name="U$54" library="output" package="#_ATXO#0" value="" x="39.900940625" y="26.54" smashed="yes"/>
+<element name="U$55" library="output" package="#_AEN#0" value="" x="39.900940625" y="31.62" smashed="yes"/>
+<element name="U$56" library="output" package="#RGB_#0" value="" x="61.800940625" y="59" smashed="yes" rot="MR90"/>
+<element name="U$57" library="output" package="#USRBTN#0" value="" x="58.400940625" y="60.8" smashed="yes" rot="R90"/>
+<element name="U$58" library="output" package="#RGB#0" value="" x="61.000940625" y="59.25" smashed="yes"/>
 <element name="E$1" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="" x="-2.626359375" y="62.334140625" smashed="yes"/>
 <element name="E$2" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="" x="-2.626359375" y="62.334140625" smashed="yes" rot="MR0"/>
 <element name="E$3" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="" x="78.1177" y="62.334140625" smashed="yes"/>
@@ -10500,6 +11080,7 @@ These design rules are smaller than the &lt;a href=&quot;https://jlcpcb.com/capa
 <via x="36.6" y="51.2" extent="1-16" drill="0.3"/>
 <via x="36.6" y="57.9" extent="1-16" drill="0.3"/>
 <via x="36.6" y="64.2" extent="1-16" drill="0.3"/>
+<via x="18.35" y="11.35" extent="1-16" drill="0.3"/>
 <wire x1="35.4207" y1="62" x2="36.6" y2="64.2" width="0" layer="19" extent="16-16"/>
 <wire x1="33.225" y1="59.24" x2="35.4207" y2="62" width="0" layer="19" extent="1-16"/>
 <wire x1="33.2" y1="57.3" x2="33.225" y2="59.24" width="0" layer="19" extent="1-1"/>
@@ -10566,6 +11147,7 @@ These design rules are smaller than the &lt;a href=&quot;https://jlcpcb.com/capa
 <wire x1="19.92" y1="11.11" x2="21.24" y2="11.1" width="0" layer="19" extent="1-1"/>
 <wire x1="19.75" y1="12.475" x2="19.92" y2="11.11" width="0" layer="19" extent="1-1"/>
 <wire x1="18.25" y1="12.475" x2="19.75" y2="12.475" width="0" layer="19" extent="1-1"/>
+<wire x1="18.35" y1="11.35" x2="18.25" y2="12.475" width="0" layer="19" extent="1-1"/>
 <wire x1="16.75" y1="12.475" x2="18.25" y2="12.475" width="0" layer="19" extent="1-1"/>
 <wire x1="16.7" y1="11" x2="16.75" y2="12.475" width="0" layer="19" extent="1-1"/>
 <wire x1="15.25" y1="12.475" x2="16.75" y2="12.475" width="0" layer="19" extent="1-1"/>
@@ -10660,8 +11242,8 @@ These design rules are smaller than the &lt;a href=&quot;https://jlcpcb.com/capa
 <wire x1="10.6" y1="40.1" x2="12.3" y2="40.1" width="0" layer="19" extent="1-1"/>
 <wire x1="12.3" y1="35.7" x2="12.3" y2="40.1" width="0" layer="19" extent="1-1"/>
 <wire x1="10.6" y1="35.7" x2="12.3" y2="35.7" width="0" layer="19" extent="1-1"/>
-<wire x1="3.4" y1="35.65" x2="0.8" y2="40.3" width="0" layer="19" extent="1-1"/>
-<wire x1="3" y1="32.9" x2="3.4" y2="35.65" width="0" layer="19" extent="1-1"/>
+<wire x1="3.3" y1="35.65" x2="0.8" y2="40.3" width="0" layer="19" extent="1-1"/>
+<wire x1="3" y1="32.9" x2="3.3" y2="35.65" width="0" layer="19" extent="1-1"/>
 <wire x1="3" y1="30.3" x2="3" y2="32.9" width="0" layer="19" extent="1-1"/>
 <wire x1="3" y1="27.8" x2="3" y2="30.3" width="0" layer="19" extent="1-1"/>
 <wire x1="1.9" y1="24" x2="3" y2="27.8" width="0" layer="19" extent="1-1"/>
@@ -10687,9 +11269,9 @@ These design rules are smaller than the &lt;a href=&quot;https://jlcpcb.com/capa
 <contactref element="J6" pad="2"/>
 <contactref element="J6" pad="4"/>
 <contactref element="D7" pad="C"/>
-<wire x1="30.5" y1="11.1" x2="31" y2="11.1" width="0.35" layer="1"/>
-<wire x1="31" y1="11.1" x2="31.4" y2="11.5" width="0.35" layer="1"/>
-<wire x1="31.4" y1="11.5" x2="32.095" y2="11.5" width="0.35" layer="1"/>
+<wire x1="30.5" y1="11.1" x2="31.1" y2="11.1" width="0.35" layer="1"/>
+<wire x1="31.1" y1="11.1" x2="31.5" y2="11.5" width="0.35" layer="1"/>
+<wire x1="31.5" y1="11.5" x2="32.095" y2="11.5" width="0.35" layer="1"/>
 <wire x1="32.095" y1="11.5" x2="32.095" y2="13.495" width="0.35" layer="1"/>
 <wire x1="32.095" y1="13.495" x2="32.1" y2="13.5" width="0.35" layer="1"/>
 <wire x1="32.1" y1="20.5" x2="30.7" y2="21.9" width="0.35" layer="1"/>
@@ -10722,16 +11304,16 @@ These design rules are smaller than the &lt;a href=&quot;https://jlcpcb.com/capa
 <wire x1="22.5207" y1="62.8793" x2="23.8" y2="62.8793" width="0.2" layer="16"/>
 <wire x1="13.723" y1="63.823" x2="14" y2="64.1" width="0.2" layer="1"/>
 <wire x1="21.3" y1="64.1" x2="22.5207" y2="62.8793" width="0.2" layer="16"/>
-<wire x1="3.4" y1="40.25" x2="4.15" y2="40.25" width="0.15" layer="1"/>
+<wire x1="3.3" y1="40.25" x2="4.15" y2="40.25" width="0.15" layer="1"/>
 <wire x1="4.15" y1="40.25" x2="4.4" y2="40" width="0.15" layer="1"/>
 <wire x1="4.4" y1="40" x2="4.4" y2="37" width="0.15" layer="1"/>
 <via x="13.5" y="44.9" extent="1-16" drill="0.3"/>
-<wire x1="3.4" y1="42.1" x2="3.4" y2="40.25" width="0.2" layer="1"/>
+<wire x1="3.3" y1="42" x2="3.3" y2="40.25" width="0.2" layer="1"/>
 <wire x1="16.7" y1="64.1" x2="16.7" y2="54.9" width="0.2" layer="16"/>
 <wire x1="16.7" y1="54.9" x2="13.5" y2="51.7" width="0.2" layer="16"/>
 <wire x1="13.5" y1="51.7" x2="13.5" y2="44.9" width="0.2" layer="16"/>
 <wire x1="13.5" y1="44.9" x2="6.2" y2="44.9" width="0.2" layer="1"/>
-<wire x1="6.2" y1="44.9" x2="3.4" y2="42.1" width="0.2" layer="1"/>
+<wire x1="6.2" y1="44.9" x2="3.3" y2="42" width="0.2" layer="1"/>
 <wire x1="32.1" y1="14.9" x2="32.1" y2="17.9" width="0.35" layer="1"/>
 <wire x1="25.9" y1="56.49499375" x2="24.5" y2="57.89499375" width="0.2" layer="16"/>
 <wire x1="23.8" y1="62.2" x2="23.8" y2="62.8793" width="0.2" layer="16"/>
@@ -11119,49 +11701,45 @@ These design rules are smaller than the &lt;a href=&quot;https://jlcpcb.com/capa
 </signal>
 <signal name="NOTECARD_RX">
 <contactref element="J6" pad="62"/>
-<contactref element="J2" pad="13"/>
-<wire x1="25" y1="1.275" x2="25" y2="2.5806" width="0.15" layer="1"/>
-<wire x1="25" y1="2.5806" x2="25.2472" y2="2.8278" width="0.15" layer="1"/>
-<via x="25.2472" y="2.8278" extent="1-16" drill="0.3"/>
-<wire x1="25.2472" y1="2.8278" x2="25.2984" y2="2.879" width="0.15" layer="16"/>
-<wire x1="25.2984" y1="2.879" x2="25.2984" y2="3.26585625" width="0.15" layer="16"/>
-<wire x1="25.2984" y1="3.26585625" x2="27.4" y2="5.36745625" width="0.15" layer="16"/>
-<wire x1="27.4" y1="5.36745625" x2="27.4" y2="9.1" width="0.15" layer="16"/>
 <wire x1="14" y1="20.025" x2="14" y2="18.8" width="0.15" layer="1"/>
 <via x="14" y="18.8" extent="1-16" drill="0.3"/>
-<via x="22.5" y="10.504" extent="1-16" drill="0.3"/>
-<wire x1="27.4" y1="9.1" x2="25.996" y2="10.504" width="0.15" layer="16"/>
-<wire x1="25.996" y1="10.504" x2="22.5" y2="10.504" width="0.15" layer="16"/>
-<wire x1="22.5" y1="10.504" x2="19.296" y2="10.504" width="0.15" layer="1"/>
-<via x="17.7" y="11.254" extent="1-16" drill="0.3"/>
-<wire x1="14" y1="14.954" x2="14" y2="18.8" width="0.15" layer="16"/>
-<wire x1="17.7" y1="11.254" x2="14" y2="14.954" width="0.15" layer="16"/>
-<wire x1="19.296" y1="10.504" x2="18.836" y2="10.964" width="0.15" layer="1"/>
-<wire x1="18.836" y1="10.964" x2="17.99" y2="10.964" width="0.15" layer="1"/>
-<wire x1="17.99" y1="10.964" x2="17.7" y2="11.254" width="0.15" layer="1"/>
+<via x="17.7" y="11.354" extent="1-16" drill="0.3"/>
+<wire x1="14" y1="15.054" x2="14" y2="18.8" width="0.15" layer="16"/>
+<wire x1="17.7" y1="11.354" x2="14" y2="15.054" width="0.15" layer="16"/>
+<contactref element="J2" pad="15"/>
+<wire x1="17.7" y1="11.354" x2="19.154" y2="9.9" width="0.15" layer="1"/>
+<wire x1="19.154" y1="9.9" x2="22.5" y2="9.9" width="0.15" layer="1"/>
+<via x="22.5" y="9.9" extent="1-16" drill="0.3"/>
+<wire x1="22.5" y1="9.9" x2="23.71190625" y2="9.9" width="0.15" layer="16"/>
+<wire x1="23.71190625" y1="9.9" x2="23.71310625" y2="9.9012" width="0.15" layer="16"/>
+<wire x1="23.71310625" y1="9.9012" x2="26.4988" y2="9.9012" width="0.15" layer="16"/>
+<wire x1="26.4988" y1="9.9012" x2="26.9" y2="9.5" width="0.15" layer="16"/>
+<via x="24.5" y="2.8278" extent="1-16" drill="0.3"/>
+<wire x1="24.5" y1="3.14035" x2="24.5" y2="2.8278" width="0.15" layer="16"/>
+<wire x1="26.9" y1="5.54035" x2="24.5" y2="3.14035" width="0.15" layer="16"/>
+<wire x1="24.5" y1="2.8278" x2="24.5" y2="1.275" width="0.15" layer="1"/>
+<wire x1="26.9" y1="9.5" x2="26.9" y2="5.54035" width="0.15" layer="16"/>
 </signal>
 <signal name="NOTECARD_TX">
 <contactref element="J6" pad="64"/>
-<contactref element="J2" pad="15"/>
-<wire x1="24.5" y1="1.275" x2="24.5" y2="2.6968" width="0.15" layer="1"/>
-<wire x1="24.5" y1="2.6968" x2="24.6332" y2="2.83" width="0.15" layer="1"/>
-<via x="24.6332" y="2.83" extent="1-16" drill="0.3"/>
-<wire x1="24.6732" y1="2.87" x2="24.6732" y2="3.076475" width="0.15" layer="16"/>
-<wire x1="24.6732" y1="2.87" x2="24.6332" y2="2.83" width="0.15" layer="16"/>
-<wire x1="24.6732" y1="3.076475" x2="26.9" y2="5.303275" width="0.15" layer="16"/>
-<wire x1="26.9" y1="5.303275" x2="26.9" y2="9.1" width="0.15" layer="16"/>
 <wire x1="13.5" y1="20.025" x2="13.5" y2="18.2" width="0.15" layer="1"/>
 <via x="13.5" y="18.2" extent="1-16" drill="0.3"/>
-<wire x1="26.9" y1="9.1" x2="26.05" y2="9.95" width="0.15" layer="16"/>
-<wire x1="26.05" y1="9.95" x2="22.5" y2="9.95" width="0.15" layer="16"/>
-<via x="22.5" y="9.95" extent="1-16" drill="0.3"/>
-<wire x1="22.5" y1="9.95" x2="19.236525" y2="9.95" width="0.15" layer="1"/>
-<via x="18.64" y="10.55" extent="1-16" drill="0.3"/>
-<wire x1="18.64" y1="10.55" x2="18.64" y2="10.546525" width="0.15" layer="1"/>
-<wire x1="19.236525" y1="9.95" x2="18.64" y2="10.546525" width="0.15" layer="1"/>
-<wire x1="18.64" y1="10.55" x2="17.83435" y2="10.55" width="0.15" layer="16"/>
-<wire x1="17.83435" y1="10.55" x2="13.5" y2="14.88435" width="0.15" layer="16"/>
+<via x="18.77" y="10.86" extent="1-16" drill="0.3"/>
+<wire x1="18.77" y1="10.86" x2="17.52435" y2="10.86" width="0.15" layer="16"/>
+<wire x1="17.52435" y1="10.86" x2="13.5" y2="14.88435" width="0.15" layer="16"/>
 <wire x1="13.5" y1="14.88435" x2="13.5" y2="18.2" width="0.15" layer="16"/>
+<contactref element="J2" pad="13"/>
+<wire x1="18.77" y1="10.86" x2="19.13" y2="10.5" width="0.15" layer="1"/>
+<wire x1="19.13" y1="10.5" x2="22.5" y2="10.5" width="0.15" layer="1"/>
+<via x="22.5" y="10.5" extent="1-16" drill="0.3"/>
+<wire x1="22.5" y1="10.5" x2="26.4" y2="10.5" width="0.15" layer="16"/>
+<wire x1="26.4" y1="10.5" x2="27.4" y2="9.5" width="0.15" layer="16"/>
+<wire x1="27.4" y1="9.5" x2="27.4" y2="5.4" width="0.15" layer="16"/>
+<wire x1="25.2" y1="3.2" x2="25.2" y2="2.8278" width="0.15" layer="16"/>
+<via x="25.2" y="2.8278" extent="1-16" drill="0.3"/>
+<wire x1="25.2" y1="2.8278" x2="25" y2="2.6278" width="0.15" layer="1"/>
+<wire x1="25" y1="2.6278" x2="25" y2="1.275" width="0.15" layer="1"/>
+<wire x1="27.4" y1="5.4" x2="25.2" y2="3.2" width="0.15" layer="16"/>
 </signal>
 <signal name="AUX_EN">
 <contactref element="D3" pad="A"/>
@@ -11172,7 +11750,8 @@ These design rules are smaller than the &lt;a href=&quot;https://jlcpcb.com/capa
 <wire x1="11.6" y1="51.5" x2="11.6" y2="31.62" width="0.15" layer="16"/>
 <contactref element="J3" pad="4"/>
 <contactref element="Q6" pad="3"/>
-<wire x1="1.3" y1="39.3" x2="1.3" y2="38.4" width="0.15" layer="1"/>
+<wire x1="1.2" y1="39.3" x2="1.2" y2="38.5" width="0.15" layer="1"/>
+<wire x1="1.2" y1="38.5" x2="1.3" y2="38.4" width="0.15" layer="1"/>
 <via x="1.3" y="38.4" extent="1-16" drill="0.3"/>
 <wire x1="1.3" y1="38.4" x2="1.9" y2="37.8" width="0.15" layer="16"/>
 <wire x1="1.9" y1="37.8" x2="1.9" y2="31.62" width="0.15" layer="16"/>
@@ -11589,16 +12168,13 @@ These design rules are smaller than the &lt;a href=&quot;https://jlcpcb.com/capa
 <contactref element="U2" pad="5"/>
 <contactref element="D7" pad="A"/>
 <contactref element="C8" pad="1"/>
-<polygon width="0.2" layer="1">
+<polygon width="0.2" layer="1" thermals="no">
 <vertex x="34.2" y="15.2"/>
 <vertex x="34.2" y="14.6"/>
-<vertex x="36.3" y="14.6"/>
-<vertex x="36.3" y="15.2"/>
-<vertex x="36.4" y="15.3"/>
-<vertex x="36.4" y="16.7"/>
+<vertex x="36.47" y="14.6"/>
+<vertex x="36.47" y="16.7"/>
 <vertex x="36.1" y="16.7"/>
 <vertex x="36.1" y="16.1"/>
-<vertex x="35.4" y="15.4"/>
 <vertex x="35.2" y="15.2"/>
 </polygon>
 <wire x1="36.25" y1="14.9" x2="36.25" y2="16.5999" width="0" layer="19" extent="1-1"/>
@@ -11654,25 +12230,23 @@ These design rules are smaller than the &lt;a href=&quot;https://jlcpcb.com/capa
 <wire x1="15.7" y1="4.1" x2="18.1" y2="4.1" width="0.15" layer="16"/>
 <wire x1="18.1" y1="4.1" x2="20.78" y2="6.78" width="0.15" layer="16"/>
 <wire x1="20.78" y1="13.22" x2="20.78" y2="6.78" width="0.15" layer="16"/>
-<wire x1="3.4" y1="33.75" x2="9.95" y2="33.75" width="0.15" layer="1"/>
-<wire x1="9.95" y1="33.75" x2="10.6" y2="33.1" width="0.15" layer="1"/>
-<via x="10.6" y="33.1" extent="1-16" drill="0.3"/>
-<wire x1="10.6" y1="33.1" x2="10.6" y2="23.4" width="0.15" layer="16"/>
+<via x="10.6" y="33.75" extent="1-16" drill="0.3"/>
+<wire x1="10.6" y1="33.75" x2="10.6" y2="23.4" width="0.15" layer="16"/>
 <wire x1="10.6" y1="23.4" x2="20.78" y2="13.22" width="0.15" layer="16"/>
+<wire x1="10.6" y1="33.75" x2="3.3" y2="33.75" width="0.15" layer="1"/>
 </signal>
 <signal name="N$19">
 <contactref element="Q6" pad="1"/>
 <contactref element="R10" pad="1"/>
 <contactref element="R17" pad="2"/>
 <wire x1="2.2" y1="37" x2="3.4" y2="37" width="0.15" layer="1"/>
-<wire x1="3.4" y1="37" x2="3.4" y2="38.35" width="0.15" layer="1"/>
+<wire x1="3.3" y1="38.35" x2="3.4" y2="38.25" width="0.15" layer="1"/>
+<wire x1="3.4" y1="38.25" x2="3.4" y2="37" width="0.15" layer="1"/>
 </signal>
 <signal name="N$20">
 <contactref element="R17" pad="1"/>
 <contactref element="Q5" pad="3"/>
-<wire x1="1.2" y1="37" x2="1.2" y2="35.9" width="0.15" layer="1"/>
-<wire x1="1.2" y1="35.9" x2="1.3" y2="35.8" width="0.15" layer="1"/>
-<wire x1="1.3" y1="35.8" x2="1.3" y2="34.7" width="0.15" layer="1"/>
+<wire x1="1.2" y1="37" x2="1.2" y2="34.7" width="0.15" layer="1"/>
 </signal>
 <signal name="GND1" class="4">
 <contactref element="U3" pad="4"/>
@@ -11918,6 +12492,7 @@ These design rules are smaller than the &lt;a href=&quot;https://jlcpcb.com/capa
 <via x="74.600940625" y="51.2" extent="1-16" drill="0.3"/>
 <via x="74.600940625" y="57.9" extent="1-16" drill="0.3"/>
 <via x="74.600940625" y="64.2" extent="1-16" drill="0.3"/>
+<via x="56.350940625" y="11.35" extent="1-16" drill="0.3"/>
 <wire x1="73.421640625" y1="62" x2="74.600940625" y2="64.2" width="0" layer="19" extent="16-16"/>
 <wire x1="71.225940625" y1="59.24" x2="73.421640625" y2="62" width="0" layer="19" extent="1-16"/>
 <wire x1="71.200940625" y1="57.3" x2="71.225940625" y2="59.24" width="0" layer="19" extent="1-1"/>
@@ -11984,6 +12559,7 @@ These design rules are smaller than the &lt;a href=&quot;https://jlcpcb.com/capa
 <wire x1="57.920940625" y1="11.11" x2="59.240940625" y2="11.1" width="0" layer="19" extent="1-1"/>
 <wire x1="57.750940625" y1="12.475" x2="57.920940625" y2="11.11" width="0" layer="19" extent="1-1"/>
 <wire x1="56.250940625" y1="12.475" x2="57.750940625" y2="12.475" width="0" layer="19" extent="1-1"/>
+<wire x1="56.350940625" y1="11.35" x2="56.250940625" y2="12.475" width="0" layer="19" extent="1-1"/>
 <wire x1="54.750940625" y1="12.475" x2="56.250940625" y2="12.475" width="0" layer="19" extent="1-1"/>
 <wire x1="54.700940625" y1="11" x2="54.750940625" y2="12.475" width="0" layer="19" extent="1-1"/>
 <wire x1="53.250940625" y1="12.475" x2="54.750940625" y2="12.475" width="0" layer="19" extent="1-1"/>
@@ -12078,8 +12654,8 @@ These design rules are smaller than the &lt;a href=&quot;https://jlcpcb.com/capa
 <wire x1="48.600940625" y1="40.1" x2="50.300940625" y2="40.1" width="0" layer="19" extent="1-1"/>
 <wire x1="50.300940625" y1="35.7" x2="50.300940625" y2="40.1" width="0" layer="19" extent="1-1"/>
 <wire x1="48.600940625" y1="35.7" x2="50.300940625" y2="35.7" width="0" layer="19" extent="1-1"/>
-<wire x1="41.400940625" y1="35.65" x2="38.800940625" y2="40.3" width="0" layer="19" extent="1-1"/>
-<wire x1="41.000940625" y1="32.9" x2="41.400940625" y2="35.65" width="0" layer="19" extent="1-1"/>
+<wire x1="41.300940625" y1="35.65" x2="38.800940625" y2="40.3" width="0" layer="19" extent="1-1"/>
+<wire x1="41.000940625" y1="32.9" x2="41.300940625" y2="35.65" width="0" layer="19" extent="1-1"/>
 <wire x1="41.000940625" y1="30.3" x2="41.000940625" y2="32.9" width="0" layer="19" extent="1-1"/>
 <wire x1="41.000940625" y1="27.8" x2="41.000940625" y2="30.3" width="0" layer="19" extent="1-1"/>
 <wire x1="39.900940625" y1="24" x2="41.000940625" y2="27.8" width="0" layer="19" extent="1-1"/>
@@ -12105,9 +12681,9 @@ These design rules are smaller than the &lt;a href=&quot;https://jlcpcb.com/capa
 <contactref element="J8" pad="2"/>
 <contactref element="J8" pad="4"/>
 <contactref element="D17" pad="C"/>
-<wire x1="68.500940625" y1="11.1" x2="69.000940625" y2="11.1" width="0.35" layer="1"/>
-<wire x1="69.000940625" y1="11.1" x2="69.400940625" y2="11.5" width="0.35" layer="1"/>
-<wire x1="69.400940625" y1="11.5" x2="70.095940625" y2="11.5" width="0.35" layer="1"/>
+<wire x1="68.500940625" y1="11.1" x2="69.100940625" y2="11.1" width="0.35" layer="1"/>
+<wire x1="69.100940625" y1="11.1" x2="69.500940625" y2="11.5" width="0.35" layer="1"/>
+<wire x1="69.500940625" y1="11.5" x2="70.095940625" y2="11.5" width="0.35" layer="1"/>
 <wire x1="70.095940625" y1="11.5" x2="70.095940625" y2="13.495" width="0.35" layer="1"/>
 <wire x1="70.095940625" y1="13.495" x2="70.100940625" y2="13.5" width="0.35" layer="1"/>
 <wire x1="70.100940625" y1="20.5" x2="68.700940625" y2="21.9" width="0.35" layer="1"/>
@@ -12140,16 +12716,16 @@ These design rules are smaller than the &lt;a href=&quot;https://jlcpcb.com/capa
 <wire x1="60.521640625" y1="62.8793" x2="61.800940625" y2="62.8793" width="0.2" layer="16"/>
 <wire x1="51.723940625" y1="63.823" x2="52.000940625" y2="64.1" width="0.2" layer="1"/>
 <wire x1="59.300940625" y1="64.1" x2="60.521640625" y2="62.8793" width="0.2" layer="16"/>
-<wire x1="41.400940625" y1="40.25" x2="42.150940625" y2="40.25" width="0.15" layer="1"/>
+<wire x1="41.300940625" y1="40.25" x2="42.150940625" y2="40.25" width="0.15" layer="1"/>
 <wire x1="42.150940625" y1="40.25" x2="42.400940625" y2="40" width="0.15" layer="1"/>
 <wire x1="42.400940625" y1="40" x2="42.400940625" y2="37" width="0.15" layer="1"/>
 <via x="51.500940625" y="44.9" extent="1-16" drill="0.3"/>
-<wire x1="41.400940625" y1="42.1" x2="41.400940625" y2="40.25" width="0.2" layer="1"/>
+<wire x1="41.300940625" y1="42" x2="41.300940625" y2="40.25" width="0.2" layer="1"/>
 <wire x1="54.700940625" y1="64.1" x2="54.700940625" y2="54.9" width="0.2" layer="16"/>
 <wire x1="54.700940625" y1="54.9" x2="51.500940625" y2="51.7" width="0.2" layer="16"/>
 <wire x1="51.500940625" y1="51.7" x2="51.500940625" y2="44.9" width="0.2" layer="16"/>
 <wire x1="51.500940625" y1="44.9" x2="44.200940625" y2="44.9" width="0.2" layer="1"/>
-<wire x1="44.200940625" y1="44.9" x2="41.400940625" y2="42.1" width="0.2" layer="1"/>
+<wire x1="44.200940625" y1="44.9" x2="41.300940625" y2="42" width="0.2" layer="1"/>
 <wire x1="70.100940625" y1="14.9" x2="70.100940625" y2="17.9" width="0.35" layer="1"/>
 <wire x1="63.900940625" y1="56.49499375" x2="62.500940625" y2="57.89499375" width="0.2" layer="16"/>
 <wire x1="61.800940625" y1="62.2" x2="61.800940625" y2="62.8793" width="0.2" layer="16"/>
@@ -12537,49 +13113,45 @@ These design rules are smaller than the &lt;a href=&quot;https://jlcpcb.com/capa
 </signal>
 <signal name="NOTECARD_RX1">
 <contactref element="J8" pad="62"/>
-<contactref element="J9" pad="13"/>
-<wire x1="63.000940625" y1="1.275" x2="63.000940625" y2="2.5806" width="0.15" layer="1"/>
-<wire x1="63.000940625" y1="2.5806" x2="63.248140625" y2="2.8278" width="0.15" layer="1"/>
-<via x="63.248140625" y="2.8278" extent="1-16" drill="0.3"/>
-<wire x1="63.248140625" y1="2.8278" x2="63.299340625" y2="2.879" width="0.15" layer="16"/>
-<wire x1="63.299340625" y1="2.879" x2="63.299340625" y2="3.26585625" width="0.15" layer="16"/>
-<wire x1="63.299340625" y1="3.26585625" x2="65.400940625" y2="5.36745625" width="0.15" layer="16"/>
-<wire x1="65.400940625" y1="5.36745625" x2="65.400940625" y2="9.1" width="0.15" layer="16"/>
 <wire x1="52.000940625" y1="20.025" x2="52.000940625" y2="18.8" width="0.15" layer="1"/>
 <via x="52.000940625" y="18.8" extent="1-16" drill="0.3"/>
-<via x="60.500940625" y="10.504" extent="1-16" drill="0.3"/>
-<wire x1="65.400940625" y1="9.1" x2="63.996940625" y2="10.504" width="0.15" layer="16"/>
-<wire x1="63.996940625" y1="10.504" x2="60.500940625" y2="10.504" width="0.15" layer="16"/>
-<wire x1="60.500940625" y1="10.504" x2="57.296940625" y2="10.504" width="0.15" layer="1"/>
-<via x="55.700940625" y="11.254" extent="1-16" drill="0.3"/>
-<wire x1="52.000940625" y1="14.954" x2="52.000940625" y2="18.8" width="0.15" layer="16"/>
-<wire x1="55.700940625" y1="11.254" x2="52.000940625" y2="14.954" width="0.15" layer="16"/>
-<wire x1="57.296940625" y1="10.504" x2="56.836940625" y2="10.964" width="0.15" layer="1"/>
-<wire x1="56.836940625" y1="10.964" x2="55.990940625" y2="10.964" width="0.15" layer="1"/>
-<wire x1="55.990940625" y1="10.964" x2="55.700940625" y2="11.254" width="0.15" layer="1"/>
+<via x="55.700940625" y="11.354" extent="1-16" drill="0.3"/>
+<wire x1="52.000940625" y1="15.054" x2="52.000940625" y2="18.8" width="0.15" layer="16"/>
+<wire x1="55.700940625" y1="11.354" x2="52.000940625" y2="15.054" width="0.15" layer="16"/>
+<contactref element="J9" pad="15"/>
+<wire x1="55.700940625" y1="11.354" x2="57.154940625" y2="9.9" width="0.15" layer="1"/>
+<wire x1="57.154940625" y1="9.9" x2="60.500940625" y2="9.9" width="0.15" layer="1"/>
+<via x="60.500940625" y="9.9" extent="1-16" drill="0.3"/>
+<wire x1="60.500940625" y1="9.9" x2="61.712846875" y2="9.9" width="0.15" layer="16"/>
+<wire x1="61.712846875" y1="9.9" x2="61.714046875" y2="9.9012" width="0.15" layer="16"/>
+<wire x1="61.714046875" y1="9.9012" x2="64.499740625" y2="9.9012" width="0.15" layer="16"/>
+<wire x1="64.499740625" y1="9.9012" x2="64.900940625" y2="9.5" width="0.15" layer="16"/>
+<via x="62.500940625" y="2.8278" extent="1-16" drill="0.3"/>
+<wire x1="62.500940625" y1="3.14035" x2="62.500940625" y2="2.8278" width="0.15" layer="16"/>
+<wire x1="64.900940625" y1="5.54035" x2="62.500940625" y2="3.14035" width="0.15" layer="16"/>
+<wire x1="62.500940625" y1="2.8278" x2="62.500940625" y2="1.275" width="0.15" layer="1"/>
+<wire x1="64.900940625" y1="9.5" x2="64.900940625" y2="5.54035" width="0.15" layer="16"/>
 </signal>
 <signal name="NOTECARD_TX1">
 <contactref element="J8" pad="64"/>
-<contactref element="J9" pad="15"/>
-<wire x1="62.500940625" y1="1.275" x2="62.500940625" y2="2.6968" width="0.15" layer="1"/>
-<wire x1="62.500940625" y1="2.6968" x2="62.634140625" y2="2.83" width="0.15" layer="1"/>
-<via x="62.634140625" y="2.83" extent="1-16" drill="0.3"/>
-<wire x1="62.674140625" y1="2.87" x2="62.674140625" y2="3.076475" width="0.15" layer="16"/>
-<wire x1="62.674140625" y1="2.87" x2="62.634140625" y2="2.83" width="0.15" layer="16"/>
-<wire x1="62.674140625" y1="3.076475" x2="64.900940625" y2="5.303275" width="0.15" layer="16"/>
-<wire x1="64.900940625" y1="5.303275" x2="64.900940625" y2="9.1" width="0.15" layer="16"/>
 <wire x1="51.500940625" y1="20.025" x2="51.500940625" y2="18.2" width="0.15" layer="1"/>
 <via x="51.500940625" y="18.2" extent="1-16" drill="0.3"/>
-<wire x1="64.900940625" y1="9.1" x2="64.050940625" y2="9.95" width="0.15" layer="16"/>
-<wire x1="64.050940625" y1="9.95" x2="60.500940625" y2="9.95" width="0.15" layer="16"/>
-<via x="60.500940625" y="9.95" extent="1-16" drill="0.3"/>
-<wire x1="60.500940625" y1="9.95" x2="57.237465625" y2="9.95" width="0.15" layer="1"/>
-<via x="56.640940625" y="10.55" extent="1-16" drill="0.3"/>
-<wire x1="56.640940625" y1="10.55" x2="56.640940625" y2="10.546525" width="0.15" layer="1"/>
-<wire x1="57.237465625" y1="9.95" x2="56.640940625" y2="10.546525" width="0.15" layer="1"/>
-<wire x1="56.640940625" y1="10.55" x2="55.835290625" y2="10.55" width="0.15" layer="16"/>
-<wire x1="55.835290625" y1="10.55" x2="51.500940625" y2="14.88435" width="0.15" layer="16"/>
+<via x="56.770940625" y="10.86" extent="1-16" drill="0.3"/>
+<wire x1="56.770940625" y1="10.86" x2="55.525290625" y2="10.86" width="0.15" layer="16"/>
+<wire x1="55.525290625" y1="10.86" x2="51.500940625" y2="14.88435" width="0.15" layer="16"/>
 <wire x1="51.500940625" y1="14.88435" x2="51.500940625" y2="18.2" width="0.15" layer="16"/>
+<contactref element="J9" pad="13"/>
+<wire x1="56.770940625" y1="10.86" x2="57.130940625" y2="10.5" width="0.15" layer="1"/>
+<wire x1="57.130940625" y1="10.5" x2="60.500940625" y2="10.5" width="0.15" layer="1"/>
+<via x="60.500940625" y="10.5" extent="1-16" drill="0.3"/>
+<wire x1="60.500940625" y1="10.5" x2="64.400940625" y2="10.5" width="0.15" layer="16"/>
+<wire x1="64.400940625" y1="10.5" x2="65.400940625" y2="9.5" width="0.15" layer="16"/>
+<wire x1="65.400940625" y1="9.5" x2="65.400940625" y2="5.4" width="0.15" layer="16"/>
+<wire x1="63.200940625" y1="3.2" x2="63.200940625" y2="2.8278" width="0.15" layer="16"/>
+<via x="63.200940625" y="2.8278" extent="1-16" drill="0.3"/>
+<wire x1="63.200940625" y1="2.8278" x2="63.000940625" y2="2.6278" width="0.15" layer="1"/>
+<wire x1="63.000940625" y1="2.6278" x2="63.000940625" y2="1.275" width="0.15" layer="1"/>
+<wire x1="65.400940625" y1="5.4" x2="63.200940625" y2="3.2" width="0.15" layer="16"/>
 </signal>
 <signal name="AUX_EN1">
 <contactref element="D16" pad="A"/>
@@ -12590,7 +13162,8 @@ These design rules are smaller than the &lt;a href=&quot;https://jlcpcb.com/capa
 <wire x1="49.600940625" y1="51.5" x2="49.600940625" y2="31.62" width="0.15" layer="16"/>
 <contactref element="J10" pad="4"/>
 <contactref element="Q12" pad="3"/>
-<wire x1="39.300940625" y1="39.3" x2="39.300940625" y2="38.4" width="0.15" layer="1"/>
+<wire x1="39.200940625" y1="39.3" x2="39.200940625" y2="38.5" width="0.15" layer="1"/>
+<wire x1="39.200940625" y1="38.5" x2="39.300940625" y2="38.4" width="0.15" layer="1"/>
 <via x="39.300940625" y="38.4" extent="1-16" drill="0.3"/>
 <wire x1="39.300940625" y1="38.4" x2="39.900940625" y2="37.8" width="0.15" layer="16"/>
 <wire x1="39.900940625" y1="37.8" x2="39.900940625" y2="31.62" width="0.15" layer="16"/>
@@ -13007,16 +13580,13 @@ These design rules are smaller than the &lt;a href=&quot;https://jlcpcb.com/capa
 <contactref element="U4" pad="5"/>
 <contactref element="D17" pad="A"/>
 <contactref element="C18" pad="1"/>
-<polygon width="0.2" layer="1">
+<polygon width="0.2" layer="1" thermals="no">
 <vertex x="72.200940625" y="15.2"/>
 <vertex x="72.200940625" y="14.6"/>
-<vertex x="74.300940625" y="14.6"/>
-<vertex x="74.300940625" y="15.2"/>
-<vertex x="74.400940625" y="15.3"/>
-<vertex x="74.400940625" y="16.7"/>
+<vertex x="74.470940625" y="14.6"/>
+<vertex x="74.470940625" y="16.7"/>
 <vertex x="74.100940625" y="16.7"/>
 <vertex x="74.100940625" y="16.1"/>
-<vertex x="73.400940625" y="15.4"/>
 <vertex x="73.200940625" y="15.2"/>
 </polygon>
 <wire x1="74.250940625" y1="14.9" x2="74.250940625" y2="16.5999" width="0" layer="19" extent="1-1"/>
@@ -13072,25 +13642,23 @@ These design rules are smaller than the &lt;a href=&quot;https://jlcpcb.com/capa
 <wire x1="53.700940625" y1="4.1" x2="56.100940625" y2="4.1" width="0.15" layer="16"/>
 <wire x1="56.100940625" y1="4.1" x2="58.780940625" y2="6.78" width="0.15" layer="16"/>
 <wire x1="58.780940625" y1="13.22" x2="58.780940625" y2="6.78" width="0.15" layer="16"/>
-<wire x1="41.400940625" y1="33.75" x2="47.950940625" y2="33.75" width="0.15" layer="1"/>
-<wire x1="47.950940625" y1="33.75" x2="48.600940625" y2="33.1" width="0.15" layer="1"/>
-<via x="48.600940625" y="33.1" extent="1-16" drill="0.3"/>
-<wire x1="48.600940625" y1="33.1" x2="48.600940625" y2="23.4" width="0.15" layer="16"/>
+<via x="48.600940625" y="33.75" extent="1-16" drill="0.3"/>
+<wire x1="48.600940625" y1="33.75" x2="48.600940625" y2="23.4" width="0.15" layer="16"/>
 <wire x1="48.600940625" y1="23.4" x2="58.780940625" y2="13.22" width="0.15" layer="16"/>
+<wire x1="48.600940625" y1="33.75" x2="41.300940625" y2="33.75" width="0.15" layer="1"/>
 </signal>
 <signal name="N$41">
 <contactref element="Q12" pad="1"/>
 <contactref element="R33" pad="1"/>
 <contactref element="R34" pad="2"/>
 <wire x1="40.200940625" y1="37" x2="41.400940625" y2="37" width="0.15" layer="1"/>
-<wire x1="41.400940625" y1="37" x2="41.400940625" y2="38.35" width="0.15" layer="1"/>
+<wire x1="41.300940625" y1="38.35" x2="41.400940625" y2="38.25" width="0.15" layer="1"/>
+<wire x1="41.400940625" y1="38.25" x2="41.400940625" y2="37" width="0.15" layer="1"/>
 </signal>
 <signal name="N$42">
 <contactref element="R34" pad="1"/>
 <contactref element="Q11" pad="3"/>
-<wire x1="39.200940625" y1="37" x2="39.200940625" y2="35.9" width="0.15" layer="1"/>
-<wire x1="39.200940625" y1="35.9" x2="39.300940625" y2="35.8" width="0.15" layer="1"/>
-<wire x1="39.300940625" y1="35.8" x2="39.300940625" y2="34.7" width="0.15" layer="1"/>
+<wire x1="39.200940625" y1="37" x2="39.200940625" y2="34.7" width="0.15" layer="1"/>
 </signal>
 </signals>
 <mfgpreviewcolors>
