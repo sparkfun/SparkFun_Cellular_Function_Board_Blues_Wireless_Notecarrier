@@ -26453,7 +26453,7 @@ sized tool</text>
 <plain>
 <text x="350.52" y="11.43" size="2.54" layer="94" font="vector">Alex Brudner</text>
 <text x="331.724" y="6.604" size="2.54" layer="94" font="vector">Based on a design by: E. Pierce, Blues Wireless</text>
-<text x="424.18" y="7.62" size="2.54" layer="94" font="vector">v02</text>
+<text x="424.18" y="7.62" size="2.54" layer="94" font="vector">v10</text>
 <text x="106.934" y="180.086" size="2.54" layer="94" font="vector" align="center">MicroMod Function Connector</text>
 <text x="178.054" y="263.906" size="2.54" layer="94" font="vector" align="center">Power Control</text>
 <text x="53.594" y="263.906" size="2.54" layer="94" font="vector" align="center">USB Input</text>
