@@ -26441,19 +26441,17 @@ sized tool</text>
 <part name="GND31" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="SUPPLY21" library="SparkFun-PowerSymbols" deviceset="3.3V" device=""/>
 <part name="RGB" library="SparkFun-Jumpers" deviceset="JUMPER-SMT_2_NC_TRACE" device="_SILK" package3d_urn="urn:adsk.eagle:package:39281/1"/>
-<part name="Q5" library="SparkFun-DiscreteSemi" deviceset="MOSFET-NCH" device="-BSS138" value="220mA/50V/3.5Ω"/>
 <part name="Q6" library="SparkFun-DiscreteSemi" deviceset="MOSFET_PCH" device="-DMG2305UX-7" value="20V/4.2A/52mΩ/1.4W"/>
-<part name="R10" library="SparkFun-Resistors" deviceset="10KOHM" device="-0402T-1/16W-1%" value="10k"/>
 <part name="GND33" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
-<part name="R17" library="SparkFun-Resistors" deviceset="100OHM" device="-0402-TIGHT-1/16W-1%" value="100"/>
 <part name="SUPPLY17" library="SparkFun-PowerSymbols" deviceset="3.3V" device=""/>
+<part name="R10" library="SparkFun-Resistors" deviceset="10KOHM" device="-0402T-1/16W-1%" value="10k"/>
 </parts>
 <sheets>
 <sheet>
 <plain>
 <text x="350.52" y="11.43" size="2.54" layer="94" font="vector">Alex Brudner</text>
 <text x="331.724" y="6.604" size="2.54" layer="94" font="vector">Based on a design by: E. Pierce, Blues Wireless</text>
-<text x="424.18" y="7.62" size="2.54" layer="94" font="vector">v10</text>
+<text x="424.18" y="7.62" size="2.54" layer="94" font="vector">v11</text>
 <text x="106.934" y="180.086" size="2.54" layer="94" font="vector" align="center">MicroMod Function Connector</text>
 <text x="178.054" y="263.906" size="2.54" layer="94" font="vector" align="center">Power Control</text>
 <text x="53.594" y="263.906" size="2.54" layer="94" font="vector" align="center">USB Input</text>
@@ -26894,27 +26892,19 @@ Default: Normally Open</text>
 <attribute name="NAME" x="88.392" y="45.72" size="1.778" layer="95" font="vector" rot="R90" align="center"/>
 <attribute name="VALUE" x="94.488" y="45.72" size="1.778" layer="96" font="vector" rot="R90" align="center" display="off"/>
 </instance>
-<instance part="Q5" gate="NMOS" x="154.94" y="111.76" smashed="yes">
-<attribute name="NAME" x="162.56" y="111.76" size="1.778" layer="95" font="vector"/>
-<attribute name="VALUE" x="162.56" y="109.22" size="1.778" layer="96" font="vector"/>
+<instance part="Q6" gate="G$1" x="152.4" y="116.84" smashed="yes" rot="MR90">
+<attribute name="NAME" x="154.94" y="111.76" size="1.778" layer="95" font="vector" rot="MR180"/>
+<attribute name="VALUE" x="154.94" y="109.22" size="1.778" layer="96" font="vector" rot="MR180"/>
 </instance>
-<instance part="Q6" gate="G$1" x="160.02" y="144.78" smashed="yes" rot="MR90">
-<attribute name="NAME" x="162.56" y="139.7" size="1.778" layer="95" font="vector" rot="MR180"/>
-<attribute name="VALUE" x="162.56" y="137.16" size="1.778" layer="96" font="vector" rot="MR180"/>
+<instance part="GND33" gate="1" x="149.86" y="91.44" smashed="yes">
+<attribute name="VALUE" x="149.86" y="91.186" size="1.778" layer="96" font="vector" align="top-center"/>
 </instance>
-<instance part="R10" gate="G$1" x="152.4" y="139.7" smashed="yes" rot="R90">
-<attribute name="NAME" x="150.876" y="139.7" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
-<attribute name="VALUE" x="153.924" y="139.7" size="1.778" layer="96" font="vector" rot="R90" align="top-center"/>
+<instance part="SUPPLY17" gate="G$1" x="144.78" y="121.92" smashed="yes">
+<attribute name="VALUE" x="144.78" y="124.714" size="1.778" layer="96" font="vector" align="bottom-center"/>
 </instance>
-<instance part="GND33" gate="1" x="157.48" y="101.6" smashed="yes">
-<attribute name="VALUE" x="157.48" y="101.346" size="1.778" layer="96" font="vector" align="top-center"/>
-</instance>
-<instance part="R17" gate="G$1" x="157.48" y="124.46" smashed="yes" rot="R90">
-<attribute name="NAME" x="155.956" y="124.46" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
-<attribute name="VALUE" x="159.004" y="124.46" size="1.778" layer="96" font="vector" rot="R90" align="top-center"/>
-</instance>
-<instance part="SUPPLY17" gate="G$1" x="152.4" y="149.86" smashed="yes">
-<attribute name="VALUE" x="152.4" y="152.654" size="1.778" layer="96" font="vector" align="bottom-center"/>
+<instance part="R10" gate="G$1" x="149.86" y="101.6" smashed="yes" rot="R90">
+<attribute name="NAME" x="148.336" y="101.6" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
+<attribute name="VALUE" x="151.384" y="101.6" size="1.778" layer="96" font="vector" rot="R90" align="top-center"/>
 </instance>
 </instances>
 <busses>
@@ -27090,9 +27080,9 @@ Default: Normally Open</text>
 <pinref part="D10" gate="G$1" pin="GND"/>
 </segment>
 <segment>
-<pinref part="Q5" gate="NMOS" pin="S"/>
-<wire x1="157.48" y1="106.68" x2="157.48" y2="104.14" width="0.1524" layer="91"/>
+<pinref part="R10" gate="G$1" pin="1"/>
 <pinref part="GND33" gate="1" pin="GND"/>
+<wire x1="149.86" y1="96.52" x2="149.86" y2="93.98" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="3.3V" class="3">
@@ -27145,12 +27135,9 @@ Default: Normally Open</text>
 </segment>
 <segment>
 <pinref part="SUPPLY17" gate="G$1" pin="3.3V"/>
-<wire x1="152.4" y1="149.86" x2="152.4" y2="147.32" width="0.1524" layer="91"/>
-<pinref part="R10" gate="G$1" pin="2"/>
+<wire x1="144.78" y1="121.92" x2="144.78" y2="119.38" width="0.1524" layer="91"/>
 <pinref part="Q6" gate="G$1" pin="S"/>
-<wire x1="152.4" y1="147.32" x2="152.4" y2="144.78" width="0.1524" layer="91"/>
-<wire x1="154.94" y1="147.32" x2="152.4" y2="147.32" width="0.1524" layer="91"/>
-<junction x="152.4" y="147.32"/>
+<wire x1="147.32" y1="119.38" x2="144.78" y2="119.38" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="A0" class="0">
@@ -27475,8 +27462,8 @@ Default: Normally Open</text>
 </segment>
 <segment>
 <pinref part="Q6" gate="G$1" pin="D"/>
-<wire x1="165.1" y1="147.32" x2="167.64" y2="147.32" width="0.1524" layer="91"/>
-<label x="167.64" y="147.32" size="1.27" layer="95" xref="yes"/>
+<wire x1="157.48" y1="119.38" x2="160.02" y2="119.38" width="0.1524" layer="91"/>
+<label x="160.02" y="119.38" size="1.27" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="AUX_RX/MCU_TX" class="0">
@@ -27825,31 +27812,16 @@ Default: Normally Open</text>
 <junction x="91.44" y="38.1"/>
 </segment>
 </net>
-<net name="AUX_PWR" class="0">
+<net name="!AUX_PWR!" class="0">
 <segment>
-<pinref part="Q5" gate="NMOS" pin="G"/>
 <pinref part="J2" gate="J1" pin="F4"/>
 <wire x1="149.86" y1="109.22" x2="124.46" y2="109.22" width="0.1524" layer="91"/>
 <label x="134.62" y="109.22" size="1.27" layer="95"/>
-</segment>
-</net>
-<net name="N$19" class="0">
-<segment>
 <pinref part="Q6" gate="G$1" pin="G"/>
-<wire x1="157.48" y1="139.7" x2="157.48" y2="132.08" width="0.1524" layer="91"/>
-<wire x1="157.48" y1="132.08" x2="152.4" y2="132.08" width="0.1524" layer="91"/>
-<wire x1="152.4" y1="132.08" x2="152.4" y2="134.62" width="0.1524" layer="91"/>
-<pinref part="R10" gate="G$1" pin="1"/>
-<pinref part="R17" gate="G$1" pin="2"/>
-<wire x1="157.48" y1="129.54" x2="157.48" y2="132.08" width="0.1524" layer="91"/>
-<junction x="157.48" y="132.08"/>
-</segment>
-</net>
-<net name="N$20" class="0">
-<segment>
-<pinref part="R17" gate="G$1" pin="1"/>
-<pinref part="Q5" gate="NMOS" pin="D"/>
-<wire x1="157.48" y1="119.38" x2="157.48" y2="116.84" width="0.1524" layer="91"/>
+<wire x1="149.86" y1="111.76" x2="149.86" y2="109.22" width="0.1524" layer="91"/>
+<pinref part="R10" gate="G$1" pin="2"/>
+<wire x1="149.86" y1="109.22" x2="149.86" y2="106.68" width="0.1524" layer="91"/>
+<junction x="149.86" y="109.22"/>
 </segment>
 </net>
 </nets>
