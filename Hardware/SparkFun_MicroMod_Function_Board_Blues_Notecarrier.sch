@@ -20268,7 +20268,7 @@ Commonly used for small ceramic capacitors. Like our 0.1uF (http://www.sparkfun.
 </device>
 </devices>
 </deviceset>
-<deviceset name="100UF-POLAR" prefix="C">
+<deviceset name="100UF-POLAR" prefix="C" uservalue="yes">
 <description>&lt;h3&gt;100µF polarized capacitors&lt;/h3&gt;
 &lt;p&gt;A capacitor is a passive two-terminal electrical component used to store electrical energy temporarily in an electric field.&lt;/p&gt;</description>
 <gates>
@@ -20368,6 +20368,19 @@ Commonly used for small ceramic capacitors. Like our 0.1uF (http://www.sparkfun.
 <technology name="">
 <attribute name="PROD_ID" value="CAP-16823" constant="no"/>
 <attribute name="VALUE" value="100uF" constant="no"/>
+</technology>
+</technologies>
+</device>
+<device name="-25V-20%-SMD(ELEC)" package="PANASONIC_D">
+<connects>
+<connect gate="G$1" pin="+" pad="+"/>
+<connect gate="G$1" pin="-" pad="-"/>
+</connects>
+<technologies>
+<technology name="">
+<attribute name="PN" value="EDH107M025A9HAA"/>
+<attribute name="PROD_ID" value="CAP-17222"/>
+<attribute name="VALUE" value="100uF"/>
 </technology>
 </technologies>
 </device>
@@ -26374,8 +26387,8 @@ sized tool</text>
 <part name="D5" library="SparkFun-DiscreteSemi" deviceset="DIODE-SCHOTTKY" device="-BAT60A" value="3A/10V/280mV"/>
 <part name="D6" library="SparkFun-DiscreteSemi" deviceset="DIODE-SCHOTTKY" device="-BAT60A" value="3A/10V/280mV"/>
 <part name="MEAS" library="SparkFun-Jumpers" deviceset="JUMPER-COMBO_2_NC_TRACE" device=""/>
-<part name="C3" library="SparkFun-Capacitors" deviceset="100UF-POLAR" device="-25V-20%(ELEC)" value="100uF"/>
-<part name="C4" library="SparkFun-Capacitors" deviceset="100UF-POLAR" device="-25V-20%(ELEC)" value="100uF"/>
+<part name="C3" library="SparkFun-Capacitors" deviceset="100UF-POLAR" device="-25V-20%-SMD(ELEC)" value="100uF"/>
+<part name="C4" library="SparkFun-Capacitors" deviceset="100UF-POLAR" device="-25V-20%-SMD(ELEC)" value="100uF"/>
 <part name="GND15" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="GND16" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="SUPPLY9" library="SparkFun-PowerSymbols" deviceset="VIN" device=""/>

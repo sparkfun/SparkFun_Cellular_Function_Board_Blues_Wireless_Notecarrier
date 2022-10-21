@@ -10185,12 +10185,14 @@ These design rules are smaller than the &lt;a href=&quot;https://jlcpcb.com/capa
 </element>
 <element name="C3" library="SparkFun-Capacitors" package="PANASONIC_D" value="100uF" x="4.5" y="8.5" smashed="yes">
 <attribute name="NAME" x="4.5" y="11.929" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
-<attribute name="PROD_ID" value="CAP-12547" x="4.5" y="8.5" size="1.778" layer="27" display="off"/>
+<attribute name="PN" value="EDH107M025A9HAA" x="4.5" y="8.5" size="1.778" layer="27" display="off"/>
+<attribute name="PROD_ID" value="CAP-17222" x="4.5" y="8.5" size="1.778" layer="27" display="off"/>
 <attribute name="VALUE" x="4.5" y="5.071" size="0.6096" layer="27" font="vector" ratio="20" align="top-center"/>
 </element>
 <element name="C4" library="SparkFun-Capacitors" package="PANASONIC_D" value="100uF" x="4.5" y="16" smashed="yes">
 <attribute name="NAME" x="4.5" y="19.429" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
-<attribute name="PROD_ID" value="CAP-12547" x="-3.6" y="24.6" size="1.778" layer="27" display="off"/>
+<attribute name="PN" value="EDH107M025A9HAA" x="4.5" y="16" size="1.778" layer="27" display="off"/>
+<attribute name="PROD_ID" value="CAP-17222" x="-3.6" y="24.6" size="1.778" layer="27" display="off"/>
 <attribute name="VALUE" x="4.5" y="12.571" size="0.6096" layer="27" font="vector" ratio="20" align="top-center"/>
 </element>
 <element name="C7" library="SparkFun-Capacitors" package="0402-TIGHT" value="0.1uF" x="32.6" y="17.9" smashed="yes">
