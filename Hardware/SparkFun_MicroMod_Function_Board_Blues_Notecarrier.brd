@@ -10346,12 +10346,8 @@ These design rules are smaller than the &lt;a href=&quot;https://jlcpcb.com/capa
 <attribute name="PROD_ID" value="CAP-12417" x="18.2" y="64" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 <attribute name="VALUE" x="18.7" y="64.562" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
-<element name="D9" library="SparkFun_MicroMod_Function_Board_Blues_Notecarrier" package="DO-214AA" value="SMBJP6KE6.8A-TP" x="20" y="56.2" smashed="yes">
-<attribute name="I_PP" value="58.1A" x="20" y="56.2" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
-<attribute name="PROD_ID" value="DIO-17055" x="20" y="56.2" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
-<attribute name="P_PK" value="600W" x="20" y="56.2" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
-<attribute name="VCLMP" value="10.5V" x="20" y="56.2" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
-<attribute name="VWM" value="5.8V" x="20" y="56.2" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
+<element name="D9" library="SparkFun_MicroMod_Function_Board_Blues_Notecarrier" package="DO-214AA" value="SMBJP6KE-DNP" x="20" y="56.2" smashed="yes">
+<attribute name="PROD_ID" value="" x="20" y="56.2" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 </element>
 <element name="D10" library="SparkFun-LED" package="WS2812-2020" value="WS2812_2020" x="23" y="60.9" smashed="yes" rot="R180">
 <attribute name="NAME" x="23" y="58.106" size="0.6096" layer="25" font="vector" ratio="20" rot="R180" align="bottom-center"/>

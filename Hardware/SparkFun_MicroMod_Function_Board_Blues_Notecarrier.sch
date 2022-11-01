@@ -25762,6 +25762,17 @@ SMD LED with built-in controller IC.
 </technology>
 </technologies>
 </device>
+<device name="-DNP" package="DO-214AA">
+<connects>
+<connect gate="G$1" pin="A" pad="A"/>
+<connect gate="G$1" pin="C" pad="C"/>
+</connects>
+<technologies>
+<technology name="">
+<attribute name="PROD_ID" value=""/>
+</technology>
+</technologies>
+</device>
 </devices>
 </deviceset>
 </devicesets>
@@ -26445,7 +26456,7 @@ sized tool</text>
 <part name="R16" library="SparkFun-Resistors" deviceset="1OHM" device="-0603-1/10W-1%" value="1"/>
 <part name="J3" library="SparkFun-Connectors" deviceset="CONN_04" device="1X04_NO_SILK_NO_POP"/>
 <part name="C9" library="SparkFun-Capacitors" deviceset="1.0UF" device="-0402T-16V-10%" value="1.0uF"/>
-<part name="D9" library="SparkFun_MicroMod_Function_Board_Blues_Notecarrier" deviceset="SMBJP6KE" device="6.8A-TP"/>
+<part name="D9" library="SparkFun_MicroMod_Function_Board_Blues_Notecarrier" deviceset="SMBJP6KE" device="-DNP" value="SMBJP6KE-DNP"/>
 <part name="GND29" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="GND30" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="D10" library="SparkFun-LED" deviceset="WS2812" device="_2020" value="WS2812_2020"/>
