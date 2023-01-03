@@ -14,7 +14,7 @@
  * Feel like supporting open source hardware?
  * Buy a board from SparkFun!
  *      MicroMod Function Board Blues Wireless Notecarrier  
- *        | !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!FILL IN WITH LINK
+ *        | https://www.sparkfun.com/products/20409
  *      MicroMod STM32 Processor                            
  *        | https://www.sparkfun.com/products/16401
  *      MicroMod Main Board - Double                        
